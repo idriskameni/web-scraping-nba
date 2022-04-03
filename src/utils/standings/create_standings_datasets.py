@@ -21,3 +21,4 @@ def create_standings_datasets(standings_content):
     for table in unique_tables:
         table.to_csv('..\\..\\docs\\standings\\nba_standing_conference_' + str(i) + '.csv', sep=',', index=False, encoding='utf-8-sig')
         i += 1
+
