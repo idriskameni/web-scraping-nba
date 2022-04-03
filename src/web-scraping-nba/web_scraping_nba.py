@@ -1,4 +1,5 @@
 from sys import path
+
 path.append('../../')
 
 from src.utils.standings.get_standings_content import get_standings_content
@@ -23,9 +24,10 @@ def web_scraping_nba():
     # Create standings datasets
     create_standings_datasets(standings_content)
 
-    # Get teams' links
+    # Get players' links
     teams_links = get_teams_links(standings_content)
     final_list = []
+
 
     # Get link from each team
     for link in teams_links:

@@ -20,7 +20,9 @@ def create_list_of_players_dataset(list_of_players_content):
     unique_tables = [tables[x] for x, y in enumerate(tables) if tables[x].equals(tables[x - 1]) is False]
 
     # Creat csv file with team and players information
-    for table in tables:
-        table.to_csv('..\\..\\docs\\teams\\team_' + str(i) + '.csv', sep=',', index=False, encoding='utf-8-sig')
+    for table in unique_tables:
+        table.to_csv('..\\..\\docs\\players\\nba_players_statics_' + str(i) + '.csv', sep=',', index=False, encoding='utf-8-sig')
 
         i += 1
+
+    return unique_tables
