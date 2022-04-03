@@ -26,23 +26,17 @@ def web_scraping_nba():
     # Get teams' links
     teams_links = get_teams_links(standings_content)
     final_list = []
+
+    # Get link from each team
     for link in teams_links:
-        print(link)
+
         splitted_link = link.split('/')
-        print(splitted_link)
+
         url = base_url + splitted_link[1] + '/roster/' + splitted_link[2] + '/' + splitted_link[3]
-        print(url)
+
         list_of_players_content = get_list_of_players_content(url)
+
         final_list.append(create_list_of_players_dataset(list_of_players_content))
-
-
-    """
-    # Get list of players content
-    list_of_players_content = get_list_of_players_content(teams_links)
-    
-    # Create list of players dataset
-    create_list_of_players_dataset(list_of_players_content)
-    """
 
 
 if __name__ == "__main__":

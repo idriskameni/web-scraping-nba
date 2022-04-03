@@ -16,7 +16,6 @@ def get_standings_content(base_url):
 
     # Get the content from the indicated URL
     driver.get(base_url + 'standings/')
-
     # Transform 'page_source' to BeautifulSoup object
     soup = BeautifulSoup(driver.page_source, 'html.parser')
 
