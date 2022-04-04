@@ -63,10 +63,12 @@ def web_scraping_nba():
     western_list_of_players_datasets = pd.concat(western_list_of_list_of_players_datasets)
 
     save_dataframe(
-        [eastern_stats_of_players_datasets, western_stats_of_players_datasets], 'players_stats\\players_stats'
+        [eastern_stats_of_players_datasets.drop_duplicates(), western_stats_of_players_datasets.drop_duplicates()],
+        'players_stats\\players_stats'
     )
     save_dataframe(
-        [eastern_list_of_players_datasets, western_list_of_players_datasets], 'players_list\\players_list'
+        [eastern_list_of_players_datasets.drop_duplicates(), western_list_of_players_datasets.drop_duplicates()],
+        'players_list\\players_list'
     )
 
 
