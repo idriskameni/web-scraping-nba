@@ -1,4 +1,21 @@
 ﻿Jugador,B,GS,MPP,%TC,%3P,%TL,OFE,DEF,PPP,RePP,APP,RoPP,TPP,PÉR,FP,Team,Conference
+Bam Adebayo,54,54,32.6,55.5,0.0,74.8,2.5,7.7,18.9,10.2,3.4,1.4,0.8,2.7,3.1,Miami Heat,Eastern
+Jimmy Butler,55,55,33.8,47.8,22.7,87.1,1.8,4.1,21.3,5.9,5.5,1.7,0.5,2.1,1.5,Miami Heat,Eastern
+Dewayne Dedmon,66,15,15.9,56.6,41.3,75.5,1.6,4.2,6.3,5.8,0.7,0.3,0.6,1.0,2.6,Miami Heat,Eastern
+Udonis Haslem,12,0,5.3,50.0,33.3,100.0,0.3,1.3,2.5,1.6,0.3,0.1,0.1,0.3,0.9,Miami Heat,Eastern
+Tyler Herro,64,10,32.6,44.3,39.3,86.2,0.5,4.5,20.6,5.0,3.9,0.7,0.1,2.6,1.4,Miami Heat,Eastern
+Haywood Highsmith,17,0,7.1,33.3,38.9,50.0,0.4,0.8,1.6,1.2,0.2,0.1,0.1,0.1,0.6,Miami Heat,Eastern
+Kyle Lowry,62,62,33.9,43.6,37.5,85.5,0.5,4.0,13.4,4.5,7.6,1.0,0.3,2.7,2.8,Miami Heat,Eastern
+Caleb Martin,58,11,22.8,50.9,40.5,76.7,1.2,2.6,9.2,3.8,1.1,1.0,0.5,0.8,1.7,Miami Heat,Eastern
+Markieff Morris,17,1,17.5,47.4,33.3,88.9,1.0,1.6,7.6,2.6,1.4,0.4,0.1,1.2,1.9,Miami Heat,Eastern
+Mychal Mulder,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Miami Heat,Eastern
+Victor Oladipo,7,0,19.7,43.1,40.0,62.5,0.3,1.6,8.4,1.9,3.0,0.4,0.1,1.7,1.6,Miami Heat,Eastern
+Duncan Robinson,76,67,26.0,39.6,36.7,83.6,0.3,2.3,10.9,2.6,1.6,0.5,0.2,0.8,2.6,Miami Heat,Eastern
+Javonte Smart,2,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Miami Heat,Eastern
+Max Strus,66,14,23.3,43.7,40.6,78.8,0.4,2.6,10.6,3.0,1.3,0.4,0.2,0.8,1.7,Miami Heat,Eastern
+P.J. Tucker,70,69,28.0,48.5,41.6,73.8,1.4,4.0,7.6,5.4,2.1,0.8,0.2,0.9,2.3,Miami Heat,Eastern
+Gabe Vincent,65,26,23.6,41.6,36.7,81.5,0.3,1.5,8.8,1.9,3.1,0.9,0.2,1.5,2.3,Miami Heat,Eastern
+Omer Yurtseven,54,11,12.1,54.3,12.5,63.2,1.5,3.7,5.4,5.1,0.9,0.3,0.4,0.7,1.5,Miami Heat,Eastern
 Jaylen Brown,63,63,33.7,47.4,36.0,76.7,0.8,5.3,23.7,6.1,3.4,1.0,0.3,2.7,2.4,Boston Celtics,Eastern
 Malik Fitts,6,0,2.7,50.0,40.0,0.0,0.2,0.5,1.3,0.7,0.5,0.0,0.0,0.0,0.2,Boston Celtics,Eastern
 Sam Hauser,23,0,5.4,42.5,41.7,0.0,0.2,0.7,2.1,1.0,0.3,0.0,0.1,0.1,0.3,Boston Celtics,Eastern
@@ -16,3 +33,475 @@ Brodric Thomas,10,0,4.8,40.0,12.5,50.0,0.2,0.5,1.5,0.7,0.8,0.0,0.1,0.4,0.6,Bosto
 Derrick White,23,3,27.5,39.7,28.6,88.1,0.5,2.8,10.8,3.3,3.6,0.7,0.7,1.2,2.3,Boston Celtics,Eastern
 Grant Williams,74,20,24.2,48.1,41.8,89.9,0.8,2.7,7.9,3.5,1.0,0.5,0.7,0.8,2.4,Boston Celtics,Eastern
 Robert Williams III,61,61,29.6,73.6,0.0,72.2,3.9,5.7,10.0,9.6,2.0,0.9,2.2,1.0,2.2,Boston Celtics,Eastern
+Grayson Allen,65,61,27.4,44.6,40.9,85.7,0.5,2.9,11.1,3.4,1.5,0.7,0.2,0.7,1.5,Milwaukee Bucks,Eastern
+Giannis Antetokounmpo,64,64,33.0,55.4,29.6,72.1,2.0,9.6,30.1,11.6,5.8,1.1,1.4,3.3,3.2,Milwaukee Bucks,Eastern
+Thanasis Antetokounmpo,45,5,9.4,52.3,9.1,58.3,0.9,1.2,3.0,2.1,0.4,0.3,0.2,0.5,1.4,Milwaukee Bucks,Eastern
+DeAndre' Bembry,8,0,9.6,37.5,0.0,0.0,0.5,0.9,0.8,1.4,0.8,0.3,0.0,0.1,1.1,Milwaukee Bucks,Eastern
+Jevon Carter,16,1,18.2,58.5,61.1,100.0,0.3,1.9,6.6,2.1,2.6,0.4,0.2,0.4,1.0,Milwaukee Bucks,Eastern
+Pat Connaughton,62,19,26.3,46.1,39.7,82.7,0.7,3.5,10.1,4.2,1.3,0.9,0.2,0.5,1.3,Milwaukee Bucks,Eastern
+George Hill,51,17,23.6,42.5,31.0,91.1,0.7,2.2,6.2,3.0,2.3,0.8,0.1,0.8,1.3,Milwaukee Bucks,Eastern
+Jrue Holiday,63,60,33.4,50.2,41.6,76.7,1.0,3.5,18.7,4.5,6.8,1.7,0.4,2.8,2.0,Milwaukee Bucks,Eastern
+Serge Ibaka,18,2,18.2,50.5,36.1,80.0,1.1,4.2,6.9,5.3,0.7,0.2,0.4,0.6,2.4,Milwaukee Bucks,Eastern
+Brook Lopez,10,8,22.4,42.2,34.1,78.6,1.3,2.2,10.1,3.5,0.6,0.6,1.0,1.0,3.0,Milwaukee Bucks,Eastern
+Sandro Mamukelashvili,38,2,9.3,47.9,42.2,75.0,0.8,1.0,3.2,1.8,0.5,0.2,0.2,0.3,0.7,Milwaukee Bucks,Eastern
+Wesley Matthews,46,11,20.2,37.9,33.1,73.9,0.6,1.3,4.8,1.9,0.7,0.5,0.2,0.4,1.8,Milwaukee Bucks,Eastern
+Khris Middleton,63,63,32.5,44.1,37.4,89.0,0.7,4.8,20.1,5.4,5.4,1.1,0.3,2.9,2.4,Milwaukee Bucks,Eastern
+Jordan Nwora,59,12,19.2,41.1,35.0,81.3,0.6,2.9,7.8,3.5,0.9,0.4,0.3,0.9,1.3,Milwaukee Bucks,Eastern
+Bobby Portis,69,59,28.3,47.8,39.4,75.2,2.5,6.6,14.7,9.1,1.2,0.8,0.7,1.3,2.4,Milwaukee Bucks,Eastern
+Lindell Wigginton,17,0,8.9,44.2,36.8,55.6,0.1,1.1,3.5,1.2,0.8,0.2,0.1,0.6,0.7,Milwaukee Bucks,Eastern
+Charles Bassey,23,0,7.3,63.8,0.0,75.0,1.0,1.7,3.0,2.7,0.3,0.2,0.7,0.3,1.4,Philadelphia 76ers,Eastern
+Charlie Brown Jr.,19,2,8.5,26.5,11.1,90.0,0.7,0.9,1.5,1.6,0.3,0.4,0.2,0.3,0.8,Philadelphia 76ers,Eastern
+Joel Embiid,65,65,33.6,49.3,36.8,81.7,2.1,9.4,30.2,11.6,4.2,1.1,1.5,3.1,2.7,Philadelphia 76ers,Eastern
+Danny Green,58,25,21.5,38.9,37.1,83.3,0.4,2.0,5.7,2.4,0.9,0.9,0.6,0.7,1.7,Philadelphia 76ers,Eastern
+James Harden,18,18,37.4,40.7,33.9,89.0,0.7,6.9,22.0,7.7,9.8,1.3,0.3,3.3,2.4,Philadelphia 76ers,Eastern
+Tobias Harris,69,69,35.0,48.4,35.6,83.9,1.1,5.8,17.5,6.9,3.5,0.6,0.6,1.6,2.2,Philadelphia 76ers,Eastern
+Isaiah Joe,53,1,10.8,35.2,33.3,93.1,0.1,0.8,3.5,1.0,0.6,0.2,0.1,0.3,0.8,Philadelphia 76ers,Eastern
+DeAndre Jordan,14,0,13.0,55.6,0.0,83.3,1.9,3.4,4.3,5.4,0.4,0.1,0.6,1.1,1.1,Philadelphia 76ers,Eastern
+Furkan Korkmaz,64,19,21.5,39.2,29.3,80.0,0.3,2.4,7.8,2.7,1.9,0.5,0.1,0.7,0.9,Philadelphia 76ers,Eastern
+Tyrese Maxey,71,70,35.5,47.9,41.7,86.0,0.4,2.9,17.1,3.3,4.3,0.7,0.4,1.1,2.1,Philadelphia 76ers,Eastern
+Paul Millsap,9,1,11.8,43.3,25.0,71.4,1.3,1.4,3.7,2.8,0.6,0.6,0.2,0.9,2.1,Philadelphia 76ers,Eastern
+Shake Milton,51,6,21.3,41.8,30.3,81.8,0.5,2.1,7.8,2.6,2.5,0.5,0.3,0.8,1.8,Philadelphia 76ers,Eastern
+Georges Niang,74,7,23.0,43.5,39.9,88.1,0.3,2.4,9.2,2.7,1.4,0.4,0.2,0.8,2.5,Philadelphia 76ers,Eastern
+Myles Powell,11,0,4.7,29.4,16.7,100.0,0.1,0.5,1.2,0.5,0.3,0.1,0.0,0.3,0.7,Philadelphia 76ers,Eastern
+Paul Reed,35,2,7.4,47.4,25.0,40.0,1.0,1.1,2.2,2.1,0.4,0.7,0.4,0.3,1.3,Philadelphia 76ers,Eastern
+Jaden Springer,2,0,3.0,100.0,0.0,0.0,0.5,0.5,1.0,1.0,0.0,0.0,1.0,0.5,0.0,Philadelphia 76ers,Eastern
+Matisse Thybulle,63,48,25.5,50.5,31.7,79.1,0.6,1.7,5.9,2.3,1.1,1.8,1.1,0.6,2.4,Philadelphia 76ers,Eastern
+Lonzo Ball,35,35,34.6,42.3,42.3,75.0,1.0,4.4,13.0,5.4,5.1,1.8,0.9,2.3,2.4,Chicago Bulls,Eastern
+Tony Bradley,52,7,10.1,57.7,0.0,68.0,1.2,2.2,2.8,3.4,0.5,0.2,0.6,0.6,1.1,Chicago Bulls,Eastern
+Troy Brown Jr.,62,6,15.9,41.5,34.7,76.0,0.6,2.4,4.1,3.0,0.9,0.5,0.1,0.4,1.0,Chicago Bulls,Eastern
+Alex Caruso,40,17,28.1,40.8,34.7,79.5,0.8,2.8,7.6,3.6,3.9,1.8,0.4,1.4,2.6,Chicago Bulls,Eastern
+Tyler Cook,19,2,10.3,61.1,0.0,64.5,0.8,1.9,3.4,2.7,0.2,0.2,0.2,0.4,1.4,Chicago Bulls,Eastern
+DeMar DeRozan,73,73,36.2,50.3,35.5,87.7,0.7,4.5,28.0,5.3,5.0,0.9,0.3,2.3,2.3,Chicago Bulls,Eastern
+Ayo Dosunmu,73,37,27.3,51.6,36.9,67.6,0.3,2.4,8.5,2.7,3.3,0.7,0.4,1.3,2.4,Chicago Bulls,Eastern
+Javonte Green,61,44,23.3,54.3,36.2,83.0,1.4,2.8,7.2,4.2,0.9,1.0,0.5,0.5,2.1,Chicago Bulls,Eastern
+Malcolm Hill,14,0,10.8,43.9,34.5,70.0,0.6,1.2,3.8,1.9,0.3,0.1,0.1,0.1,1.1,Chicago Bulls,Eastern
+Derrick Jones Jr.,47,8,17.2,54.6,32.0,79.0,1.2,2.1,5.4,3.3,0.5,0.5,0.6,0.5,2.1,Chicago Bulls,Eastern
+Zach LaVine,65,65,34.9,47.7,39.3,85.1,0.3,4.3,24.7,4.6,4.5,0.6,0.3,2.6,1.8,Chicago Bulls,Eastern
+Marko Simonovic,9,0,3.9,26.7,20.0,72.7,0.6,0.6,1.9,1.1,0.0,0.1,0.1,0.2,0.7,Chicago Bulls,Eastern
+Matt Thomas,40,0,11.5,41.0,38.5,80.0,0.1,1.2,4.0,1.3,0.5,0.2,0.1,0.2,0.5,Chicago Bulls,Eastern
+Tristan Thompson,19,2,16.3,54.9,0.0,52.5,1.6,3.0,5.2,4.6,0.7,0.6,0.3,0.6,1.6,Chicago Bulls,Eastern
+Nikola Vucevic,70,70,33.5,48.0,31.8,75.2,2.0,9.2,18.0,11.2,3.3,1.0,1.0,1.8,2.5,Chicago Bulls,Eastern
+Coby White,58,16,27.3,43.2,37.4,86.2,0.3,2.7,12.6,3.0,2.9,0.4,0.2,1.1,2.2,Chicago Bulls,Eastern
+Patrick Williams,13,5,22.8,53.4,47.1,62.5,0.8,3.0,6.2,3.8,0.6,0.7,0.5,0.5,1.5,Chicago Bulls,Eastern
+Precious Achiuwa,69,27,23.5,44.0,35.8,58.7,2.1,4.6,8.9,6.7,1.1,0.5,0.6,1.1,2.1,Toronto Raptors,Eastern
+OG Anunoby,47,47,36.2,44.5,36.9,75.0,1.5,3.9,17.3,5.4,2.6,1.5,0.5,1.6,2.8,Toronto Raptors,Eastern
+Dalano Banton,63,1,11.0,41.1,25.5,59.5,0.6,1.3,3.2,2.0,1.6,0.4,0.2,0.8,1.1,Toronto Raptors,Eastern
+Scottie Barnes,70,70,35.5,49.0,30.1,73.8,2.6,4.9,15.4,7.5,3.5,1.1,0.8,1.9,2.6,Toronto Raptors,Eastern
+Khem Birch,51,24,17.8,47.8,0.0,74.3,2.2,2.1,4.5,4.3,1.0,0.5,0.5,0.5,1.9,Toronto Raptors,Eastern
+Isaac Bonga,15,0,4.6,23.1,25.0,62.5,0.3,0.2,0.8,0.5,0.3,0.5,0.1,0.1,0.7,Toronto Raptors,Eastern
+Chris Boucher,76,9,20.9,46.4,28.8,77.0,2.3,4.0,9.2,6.2,0.3,0.6,0.9,0.5,2.2,Toronto Raptors,Eastern
+Armoni Brooks,11,1,11.0,32.3,31.0,0.0,0.6,0.8,2.6,1.5,0.9,0.6,0.3,0.3,0.8,Toronto Raptors,Eastern
+Justin Champagnie,35,0,7.8,46.2,34.6,100.0,1.1,0.9,2.2,2.0,0.3,0.2,0.1,0.2,0.9,Toronto Raptors,Eastern
+Malachi Flynn,40,5,12.0,40.7,33.3,60.9,0.2,1.2,4.3,1.4,1.6,0.5,0.1,0.3,1.1,Toronto Raptors,Eastern
+David Johnson,2,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Toronto Raptors,Eastern
+Svi Mykhailiuk,55,5,12.9,39.0,30.2,86.5,0.4,1.3,4.5,1.7,0.8,0.5,0.1,0.6,0.9,Toronto Raptors,Eastern
+Pascal Siakam,65,65,37.9,49.3,35.6,74.6,1.8,6.5,22.4,8.4,5.2,1.2,0.6,2.7,3.4,Toronto Raptors,Eastern
+Gary Trent Jr.,66,65,34.9,41.0,38.0,84.8,0.4,2.4,18.1,2.7,2.0,1.8,0.3,1.1,2.1,Toronto Raptors,Eastern
+Fred VanVleet,64,64,37.9,40.7,38.1,87.7,0.7,3.8,20.4,4.5,6.6,1.7,0.5,2.6,2.5,Toronto Raptors,Eastern
+Yuta Watanabe,36,4,11.7,41.2,36.0,56.8,0.5,1.9,4.3,2.4,0.5,0.2,0.4,0.5,1.1,Toronto Raptors,Eastern
+Thaddeus Young,22,0,17.5,46.2,41.2,43.5,1.5,2.9,6.0,4.3,1.6,1.1,0.5,0.9,1.4,Toronto Raptors,Eastern
+Jarrett Allen,56,56,32.3,67.7,10.0,70.8,3.4,7.3,16.1,10.8,1.6,0.8,1.3,1.7,1.7,Cleveland Cavaliers,Eastern
+Moses Brown,11,4,12.3,62.2,0.0,56.0,1.6,3.8,6.4,5.5,0.0,0.3,0.5,0.4,1.7,Cleveland Cavaliers,Eastern
+Ed Davis,30,3,6.7,68.8,0.0,42.9,0.5,1.7,0.9,2.1,0.2,0.1,0.3,0.2,1.1,Cleveland Cavaliers,Eastern
+Darius Garland,65,65,35.8,46.1,38.0,89.7,0.6,2.7,21.6,3.3,8.6,1.3,0.1,3.8,1.8,Cleveland Cavaliers,Eastern
+Brandon Goodwin,34,5,14.5,42.1,34.5,63.2,0.4,1.6,5.0,2.0,2.6,0.7,0.0,1.0,1.1,Cleveland Cavaliers,Eastern
+Caris LeVert,16,7,29.6,43.5,35.0,72.7,0.8,2.8,14.1,3.5,3.8,0.9,0.3,1.8,1.9,Cleveland Cavaliers,Eastern
+Kevin Love,71,4,22.6,42.3,38.4,84.2,1.1,6.0,13.4,7.1,2.2,0.4,0.2,1.3,1.4,Cleveland Cavaliers,Eastern
+Lauri Markkanen,58,58,31.0,44.0,34.8,86.0,1.0,4.7,14.4,5.7,1.4,0.8,0.5,0.9,2.1,Cleveland Cavaliers,Eastern
+Evan Mobley,67,67,33.9,50.6,25.3,66.4,2.0,6.2,14.9,8.3,2.5,0.8,1.6,2.0,2.2,Cleveland Cavaliers,Eastern
+RJ Nembhard Jr.,13,0,4.6,35.3,0.0,75.0,0.2,0.2,1.2,0.5,0.9,0.1,0.0,0.2,0.2,Cleveland Cavaliers,Eastern
+Isaac Okoro,64,58,29.8,48.0,35.3,78.1,1.1,2.0,9.0,3.1,1.8,0.8,0.3,0.9,2.5,Cleveland Cavaliers,Eastern
+Cedi Osman,63,3,22.1,42.6,35.3,66.1,0.4,1.8,10.7,2.2,2.1,0.8,0.2,1.0,1.9,Cleveland Cavaliers,Eastern
+Rajon Rondo,18,1,20.0,43.3,38.5,75.0,0.2,2.7,6.8,2.9,4.5,0.9,0.1,1.7,1.4,Cleveland Cavaliers,Eastern
+Collin Sexton,11,11,28.7,45.0,24.4,74.4,1.2,2.1,16.0,3.3,2.1,0.9,0.0,2.8,2.3,Cleveland Cavaliers,Eastern
+Lamar Stevens,60,13,16.0,49.7,29.0,70.7,0.8,1.8,6.1,2.6,0.7,0.5,0.3,0.6,1.7,Cleveland Cavaliers,Eastern
+Dean Wade,51,28,19.2,45.6,35.9,66.7,0.6,2.3,5.3,2.9,1.0,0.6,0.1,0.3,1.7,Cleveland Cavaliers,Eastern
+Dylan Windler,48,0,9.1,37.9,30.9,83.3,0.4,1.4,2.3,1.8,0.6,0.3,0.1,0.3,0.9,Cleveland Cavaliers,Eastern
+Bogdan Bogdanovic,59,27,29.2,43.2,35.9,85.8,0.5,3.4,14.8,3.8,3.0,1.1,0.2,1.2,2.1,Atlanta Hawks,Eastern
+Clint Capela,70,69,27.6,60.5,0.0,46.5,3.7,8.1,10.8,11.8,1.3,0.7,1.3,0.6,2.3,Atlanta Hawks,Eastern
+John Collins,54,53,30.8,52.6,36.4,79.3,1.7,6.1,16.2,7.8,1.8,0.6,1.0,1.1,3.0,Atlanta Hawks,Eastern
+Sharife Cooper,11,0,3.2,21.4,16.7,0.0,0.0,0.5,0.6,0.5,0.5,0.0,0.0,0.5,0.1,Atlanta Hawks,Eastern
+Gorgui Dieng,43,3,8.6,48.2,43.9,73.1,0.7,2.1,3.6,2.8,0.8,0.3,0.3,0.5,1.2,Atlanta Hawks,Eastern
+Danilo Gallinari,63,15,25.0,42.5,37.0,90.3,0.5,4.1,11.3,4.6,1.6,0.4,0.2,0.5,1.4,Atlanta Hawks,Eastern
+Kevin Huerter,70,56,29.6,45.2,38.8,80.0,0.4,2.9,12.0,3.4,2.7,0.7,0.4,1.3,2.5,Atlanta Hawks,Eastern
+De'Andre Hunter,49,48,29.7,44.8,37.2,76.0,0.5,2.9,13.4,3.3,1.3,0.7,0.4,1.3,2.9,Atlanta Hawks,Eastern
+Jalen Johnson,19,0,5.8,56.4,25.0,71.4,0.1,1.2,2.7,1.3,0.2,0.2,0.1,0.5,0.5,Atlanta Hawks,Eastern
+Kevin Knox II,15,0,7.2,38.1,21.7,80.0,0.3,1.0,3.0,1.3,0.5,0.1,0.1,0.1,0.9,Atlanta Hawks,Eastern
+Timothe Luwawu-Cabarrot,49,17,13.1,39.9,37.1,87.5,0.3,1.3,4.5,1.6,0.8,0.4,0.1,0.4,1.4,Atlanta Hawks,Eastern
+Skylar Mays,26,5,8.3,50.0,32.0,88.9,0.2,0.8,3.1,1.0,0.7,0.3,0.0,0.4,0.3,Atlanta Hawks,Eastern
+Onyeka Okongwu,44,6,20.7,69.2,0.0,72.2,2.5,3.4,8.4,5.9,1.1,0.6,1.3,0.9,3.1,Atlanta Hawks,Eastern
+Lou Williams,55,0,14.3,39.2,36.6,85.9,0.3,1.3,6.4,1.6,1.9,0.5,0.1,0.8,0.9,Atlanta Hawks,Eastern
+Delon Wright,73,8,18.7,46.2,39.6,86.0,0.7,2.2,4.6,2.8,2.4,1.2,0.3,0.6,0.7,Atlanta Hawks,Eastern
+Trae Young,72,72,34.8,45.9,38.3,90.3,0.6,3.1,28.3,3.8,9.6,1.0,0.1,4.0,1.7,Atlanta Hawks,Eastern
+LaMelo Ball,71,71,32.3,42.5,37.9,86.9,1.5,5.2,19.9,6.7,7.5,1.6,0.4,3.2,3.2,Charlotte Hornets,Eastern
+James Bouknight,28,0,10.6,35.3,34.7,87.1,0.8,1.0,5.0,1.7,0.8,0.3,0.0,0.5,1.0,Charlotte Hornets,Eastern
+Miles Bridges,76,76,35.8,49.1,32.8,79.8,1.2,5.9,20.3,7.1,3.8,0.9,0.9,1.9,2.5,Charlotte Hornets,Eastern
+Montrezl Harrell,22,0,20.9,61.8,0.0,69.3,2.2,2.9,11.3,5.1,2.0,0.4,0.4,0.8,2.0,Charlotte Hornets,Eastern
+Gordon Hayward,49,48,31.9,45.9,39.1,84.6,0.8,3.8,15.9,4.6,3.6,1.0,0.4,1.7,1.7,Charlotte Hornets,Eastern
+Kai Jones,19,0,3.1,61.5,50.0,37.5,0.2,0.4,1.1,0.5,0.2,0.1,0.0,0.3,0.4,Charlotte Hornets,Eastern
+Arnoldas Kulboka,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Charlotte Hornets,Eastern
+Scottie Lewis,2,0,3.5,0.0,0.0,50.0,0.0,0.0,0.5,0.0,0.5,0.5,0.0,0.0,0.0,Charlotte Hornets,Eastern
+Cody Martin,67,11,26.3,47.4,38.4,69.2,1.1,2.9,7.7,4.0,2.5,1.2,0.4,0.9,1.7,Charlotte Hornets,Eastern
+Jalen McDaniels,51,2,16.1,46.5,35.7,72.1,0.7,2.4,5.8,3.0,1.0,0.4,0.4,0.7,1.7,Charlotte Hornets,Eastern
+Kelly Oubre Jr.,72,13,26.7,43.8,34.5,66.7,1.1,2.9,15.2,4.0,1.1,1.0,0.4,0.9,2.5,Charlotte Hornets,Eastern
+Mason Plumlee,69,69,24.9,63.5,0.0,39.1,2.5,5.4,6.6,7.9,3.2,0.8,0.7,1.3,3.1,Charlotte Hornets,Eastern
+Nick Richards,48,5,7.5,67.8,0.0,69.8,0.7,1.1,3.1,1.7,0.3,0.2,0.4,0.5,1.0,Charlotte Hornets,Eastern
+Terry Rozier,69,69,33.9,44.0,37.7,85.0,0.8,3.6,19.3,4.3,4.4,1.3,0.3,1.4,1.7,Charlotte Hornets,Eastern
+Isaiah Thomas,13,0,13.7,42.7,37.8,90.9,0.2,1.2,8.4,1.4,1.6,0.5,0.2,0.6,1.2,Charlotte Hornets,Eastern
+JT Thor,29,0,8.5,44.4,26.9,62.5,0.4,1.0,2.2,1.4,0.6,0.3,0.3,0.3,0.9,Charlotte Hornets,Eastern
+P.J. Washington,61,24,27.0,46.3,36.7,71.6,1.3,4.0,10.3,5.3,2.2,0.9,0.9,1.2,2.3,Charlotte Hornets,Eastern
+LaMarcus Aldridge,45,12,22.8,55.4,31.1,87.3,1.6,4.0,13.5,5.6,0.9,0.3,1.0,0.9,1.6,Brooklyn Nets,Eastern
+Bruce Brown,68,41,24.0,50.3,38.1,74.8,1.4,3.3,8.6,4.7,1.9,1.1,0.6,0.7,2.4,Brooklyn Nets,Eastern
+Nic Claxton,43,19,20.6,67.2,0.0,58.0,1.9,3.6,8.7,5.5,0.9,0.5,1.1,0.8,2.2,Brooklyn Nets,Eastern
+Seth Curry,17,17,30.0,49.0,47.7,88.9,0.2,2.4,15.1,2.6,2.5,0.9,0.2,1.4,2.5,Brooklyn Nets,Eastern
+Goran Dragic,16,6,25.5,37.6,24.5,73.9,0.7,2.5,7.3,3.2,4.8,0.9,0.2,2.1,2.3,Brooklyn Nets,Eastern
+Andre Drummond,20,20,22.7,60.8,0.0,51.9,3.8,6.3,11.7,10.1,1.6,1.0,0.9,1.6,2.9,Brooklyn Nets,Eastern
+David Duke Jr.,21,7,16.2,36.1,24.3,81.0,1.4,1.8,5.0,3.2,0.8,0.7,0.3,0.4,1.7,Brooklyn Nets,Eastern
+Kevin Durant,51,51,37.0,52.4,39.3,90.5,0.5,6.8,30.1,7.3,6.1,0.9,0.9,3.4,2.0,Brooklyn Nets,Eastern
+Kessler Edwards,44,22,20.0,41.5,37.4,81.3,0.9,2.6,5.8,3.5,0.6,0.6,0.5,0.9,1.8,Brooklyn Nets,Eastern
+Blake Griffin,56,24,17.1,42.5,26.2,72.4,1.1,3.0,6.4,4.1,1.9,0.5,0.3,0.6,1.7,Brooklyn Nets,Eastern
+Joe Harris,14,14,30.2,45.2,46.6,83.3,0.4,3.6,11.3,4.0,1.0,0.5,0.1,1.1,2.2,Brooklyn Nets,Eastern
+Kyrie Irving,25,25,37.2,46.8,42.4,91.2,0.5,3.6,27.1,4.1,5.6,1.3,0.6,2.4,2.8,Brooklyn Nets,Eastern
+James Johnson,62,10,19.2,46.9,27.1,52.7,0.8,2.6,5.5,3.5,2.1,0.5,0.5,0.8,2.6,Brooklyn Nets,Eastern
+Patty Mills,77,47,29.1,40.6,39.8,82.1,0.2,1.7,11.5,2.0,2.3,0.6,0.2,0.9,1.4,Brooklyn Nets,Eastern
+Day'Ron Sharpe,32,8,12.2,57.7,28.6,58.5,2.5,2.5,6.2,5.0,0.5,0.3,0.5,0.9,1.9,Brooklyn Nets,Eastern
+Ben Simmons,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brooklyn Nets,Eastern
+Cam Thomas,63,2,18.2,43.0,26.5,82.8,0.3,2.2,8.7,2.5,1.2,0.5,0.1,0.8,1.0,Brooklyn Nets,Eastern
+Ryan Arcidiacono,8,0,5.0,66.7,75.0,0.0,0.0,0.5,1.4,0.5,0.1,0.0,0.0,0.1,0.0,New York Knicks,Eastern
+RJ Barrett,68,68,34.7,41.0,34.6,72.1,1.0,4.9,20.1,5.9,2.9,0.6,0.2,2.2,2.0,New York Knicks,Eastern
+Alec Burks,78,41,28.3,39.1,40.2,82.5,0.6,4.3,11.6,4.9,2.9,1.1,0.3,1.0,2.6,New York Knicks,Eastern
+Evan Fournier,77,77,29.5,42.0,39.3,71.2,0.4,2.2,14.2,2.6,2.1,1.0,0.2,1.3,2.2,New York Knicks,Eastern
+Taj Gibson,49,4,18.1,51.6,38.9,79.2,1.7,2.7,4.3,4.4,0.6,0.4,0.8,0.5,2.7,New York Knicks,Eastern
+Quentin Grimes,46,6,17.1,40.4,38.1,68.4,0.5,1.5,6.0,2.0,1.0,0.7,0.2,0.6,1.6,New York Knicks,Eastern
+Feron Hunt,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,New York Knicks,Eastern
+Miles McBride,38,2,9.1,30.3,24.6,66.7,0.1,0.9,2.2,1.1,1.1,0.3,0.0,0.1,1.2,New York Knicks,Eastern
+Nerlens Noel,25,11,22.5,53.3,0.0,70.0,1.9,3.7,3.4,5.6,0.9,1.2,1.2,0.8,2.7,New York Knicks,Eastern
+Immanuel Quickley,75,2,22.6,39.0,34.6,88.8,0.4,2.7,10.9,3.0,3.3,0.7,0.0,1.2,2.2,New York Knicks,Eastern
+Julius Randle,72,72,35.3,41.1,30.8,75.6,1.7,8.2,20.1,9.9,5.1,0.7,0.5,3.4,2.8,New York Knicks,Eastern
+Cam Reddish,15,0,14.4,41.5,25.8,90.6,0.3,1.1,6.1,1.4,0.7,0.8,0.3,0.9,1.0,New York Knicks,Eastern
+Mitchell Robinson,72,62,25.7,76.1,0.0,48.6,4.1,4.5,8.5,8.6,0.5,0.8,1.8,0.8,2.7,New York Knicks,Eastern
+Derrick Rose,26,4,24.5,44.5,40.2,96.8,0.8,2.2,12.0,3.0,4.0,0.8,0.5,1.5,0.6,New York Knicks,Eastern
+Jericho Sims,38,2,11.8,77.5,0.0,31.6,1.3,2.2,1.8,3.5,0.4,0.2,0.4,0.4,1.4,New York Knicks,Eastern
+Obi Toppin,69,7,16.1,52.2,26.8,76.1,0.9,2.7,8.0,3.6,1.0,0.3,0.4,0.8,1.4,New York Knicks,Eastern
+Kemba Walker,37,37,25.6,40.3,36.7,84.5,0.4,2.6,11.6,3.0,3.5,0.7,0.2,1.3,1.0,New York Knicks,Eastern
+Deni Avdija,78,6,23.8,43.2,32.6,76.5,0.6,4.5,8.2,5.1,1.9,0.7,0.5,1.0,2.3,Washington Wizards,Eastern
+Bradley Beal,40,40,36.0,45.1,30.0,83.3,1.0,3.8,23.2,4.7,6.6,0.9,0.4,3.4,2.4,Washington Wizards,Eastern
+Thomas Bryant,25,9,16.4,53.5,30.0,87.5,1.0,2.8,8.0,3.8,0.9,0.2,0.7,0.7,1.6,Washington Wizards,Eastern
+Kentavious Caldwell-Pope,75,75,30.3,43.3,39.3,89.0,0.5,2.9,13.3,3.4,1.9,1.1,0.3,1.2,1.8,Washington Wizards,Eastern
+Vernon Carey Jr.,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Washington Wizards,Eastern
+Daniel Gafford,68,51,19.9,68.9,0.0,70.4,2.2,3.5,9.1,5.7,0.9,0.4,1.4,0.9,2.3,Washington Wizards,Eastern
+Anthony Gill,41,0,10.1,58.5,54.2,80.0,0.7,1.1,4.0,1.8,0.6,0.1,0.3,0.3,1.3,Washington Wizards,Eastern
+Rui Hachimura,38,9,21.4,49.2,45.7,75.0,0.6,3.2,10.6,3.7,1.1,0.6,0.2,0.8,1.2,Washington Wizards,Eastern
+Corey Kispert,73,32,23.1,45.0,34.4,86.7,0.7,1.9,8.0,2.6,1.1,0.4,0.3,0.6,1.2,Washington Wizards,Eastern
+Kyle Kuzma,66,66,33.4,45.2,34.1,71.2,1.1,7.4,17.1,8.5,3.5,0.6,0.9,2.6,1.9,Washington Wizards,Eastern
+Raul Neto,67,19,19.8,45.8,29.3,76.2,0.2,1.8,7.5,2.0,3.2,0.8,0.0,1.1,1.5,Washington Wizards,Eastern
+Kristaps Porzingis,15,15,27.9,46.0,33.3,87.2,2.2,6.1,21.7,8.3,3.0,0.7,1.5,1.7,2.9,Washington Wizards,Eastern
+Tomas Satoransky,18,6,18.3,44.4,25.0,84.0,0.4,2.4,4.5,2.8,4.4,0.8,0.2,0.9,1.7,Washington Wizards,Eastern
+Jordan Schakel,2,0,7.0,0.0,0.0,0.0,1.0,0.5,0.0,1.5,0.0,0.0,0.0,0.0,0.0,Washington Wizards,Eastern
+Ish Smith,24,0,22.0,46.2,32.4,60.0,0.6,2.4,8.6,3.0,5.0,0.9,0.5,1.4,1.7,Washington Wizards,Eastern
+Isaiah Todd,10,0,4.1,29.4,36.4,33.3,0.2,0.8,1.6,1.0,0.3,0.2,0.2,0.1,0.1,Washington Wizards,Eastern
+Cassius Winston,5,0,5.4,50.0,40.0,100.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.2,1.4,Washington Wizards,Eastern
+Justin Anderson,12,6,22.0,37.6,25.0,80.0,0.3,3.0,7.4,3.3,2.1,0.6,0.4,0.5,1.5,Indiana Pacers,Eastern
+Goga Bitadze,50,16,14.6,52.0,28.8,68.1,1.6,2.0,7.0,3.5,1.1,0.4,0.8,0.9,2.1,Indiana Pacers,Eastern
+Oshae Brissett,64,22,23.0,40.9,34.7,69.8,1.6,3.7,8.8,5.3,1.0,0.7,0.5,0.8,1.7,Indiana Pacers,Eastern
+Malcolm Brogdon,36,36,33.5,44.8,31.2,85.6,0.9,4.2,19.1,5.1,5.9,0.8,0.4,2.1,2.0,Indiana Pacers,Eastern
+Chris Duarte,55,39,28.0,43.2,36.9,80.4,0.7,3.4,13.1,4.1,2.1,1.0,0.2,1.6,1.7,Indiana Pacers,Eastern
+Tyrese Haliburton,23,23,35.8,49.1,40.9,84.0,0.8,3.5,17.3,4.3,9.8,1.9,0.6,3.1,2.0,Indiana Pacers,Eastern
+Buddy Hield,23,23,35.8,44.8,36.5,87.1,0.8,4.2,18.0,5.0,4.9,0.9,0.4,2.4,2.8,Indiana Pacers,Eastern
+Isaiah Jackson,33,12,13.8,56.7,30.8,64.9,1.7,2.4,7.8,4.1,0.3,0.6,1.4,1.1,2.4,Indiana Pacers,Eastern
+T.J. McConnell,24,6,24.2,50.3,28.0,80.0,0.8,2.5,8.4,3.3,4.8,1.0,0.4,1.2,1.8,Indiana Pacers,Eastern
+Ricky Rubio,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Indiana Pacers,Eastern
+Jalen Smith,21,4,24.4,52.7,37.2,74.5,2.1,5.6,13.1,7.7,0.8,0.4,1.0,0.9,2.0,Indiana Pacers,Eastern
+Lance Stephenson,37,1,18.9,45.2,29.8,79.7,0.3,2.6,9.3,2.9,3.8,0.6,0.1,1.7,2.2,Indiana Pacers,Eastern
+Keifer Sykes,32,11,17.7,36.3,30.0,88.2,0.3,1.2,5.6,1.4,1.9,0.4,0.1,1.0,1.6,Indiana Pacers,Eastern
+Terry Taylor,30,6,21.1,63.0,38.7,68.9,2.8,2.5,9.5,5.2,1.2,0.4,0.2,0.7,1.8,Indiana Pacers,Eastern
+Myles Turner,42,42,29.4,50.9,33.3,75.2,1.5,5.5,12.9,7.1,1.0,0.7,2.8,1.3,2.8,Indiana Pacers,Eastern
+T.J. Warren,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Indiana Pacers,Eastern
+Duane Washington Jr.,45,7,20.0,39.5,36.2,77.2,0.1,1.7,9.5,1.8,1.8,0.5,0.1,1.2,1.4,Indiana Pacers,Eastern
+Marvin Bagley III,18,8,27.2,55.5,22.9,59.3,2.1,4.7,14.6,6.8,1.1,0.7,0.4,1.0,2.4,Detroit Pistons,Eastern
+Saddiq Bey,79,79,33.2,40.0,35.2,82.4,1.3,4.2,16.3,5.5,2.8,0.9,0.2,1.2,1.6,Detroit Pistons,Eastern
+Cade Cunningham,62,62,32.4,41.9,31.9,83.9,0.9,4.6,17.3,5.5,5.5,1.2,0.7,3.6,3.1,Detroit Pistons,Eastern
+Hamidou Diallo,58,29,21.9,49.6,24.7,65.0,1.2,3.6,11.0,4.8,1.3,1.2,0.3,1.0,2.5,Detroit Pistons,Eastern
+Carsen Edwards,1,0,31.0,33.3,33.3,100.0,1.0,2.0,13.0,3.0,9.0,2.0,0.0,1.0,3.0,Detroit Pistons,Eastern
+Luka Garza,31,5,11.5,45.0,33.3,65.5,1.6,1.3,5.4,2.9,0.5,0.3,0.2,0.5,1.7,Detroit Pistons,Eastern
+Jerami Grant,47,47,31.9,42.6,35.8,83.8,0.6,3.5,19.2,4.1,2.4,0.9,1.0,1.8,2.3,Detroit Pistons,Eastern
+Killian Hayes,63,37,25.1,38.5,26.9,76.5,0.6,2.6,6.8,3.2,4.3,1.2,0.5,1.7,2.8,Detroit Pistons,Eastern
+Frank Jackson,50,6,22.2,40.6,31.5,81.6,0.3,1.2,10.8,1.6,1.0,0.5,0.2,0.7,1.7,Detroit Pistons,Eastern
+Cory Joseph,65,39,24.6,44.5,41.4,88.5,0.4,2.2,8.0,2.7,3.6,0.6,0.3,1.3,2.3,Detroit Pistons,Eastern
+Braxton Key,6,0,21.7,39.2,33.3,40.0,1.5,4.3,7.7,5.8,0.7,1.2,1.3,0.8,3.3,Detroit Pistons,Eastern
+Saben Lee,35,0,15.8,38.0,23.7,79.3,0.4,1.9,5.3,2.3,2.7,0.9,0.3,0.8,1.1,Detroit Pistons,Eastern
+Isaiah Livers,16,2,19.7,43.6,41.4,80.0,0.8,2.3,6.3,3.1,1.2,0.6,0.4,0.8,2.0,Detroit Pistons,Eastern
+Rodney McGruder,49,2,14.4,42.0,39.1,70.0,0.6,1.5,4.9,2.1,0.9,0.4,0.1,0.4,1.1,Detroit Pistons,Eastern
+Kelly Olynyk,39,1,19.0,44.4,33.9,76.3,1.4,3.1,8.9,4.4,2.7,0.8,0.5,1.4,2.5,Detroit Pistons,Eastern
+Jamorko Pickett,11,0,12.1,30.8,29.0,50.0,0.5,1.6,3.1,2.2,0.6,0.0,0.5,0.3,0.8,Detroit Pistons,Eastern
+Isaiah Stewart,68,68,25.7,51.2,24.3,70.1,3.1,5.5,8.2,8.6,1.1,0.3,1.1,1.2,3.0,Detroit Pistons,Eastern
+Cole Anthony,65,65,31.7,39.1,33.8,85.4,0.5,4.9,16.3,5.4,5.7,0.7,0.3,2.6,2.6,Orlando Magic,Eastern
+Mo Bamba,68,66,25.9,47.5,37.0,80.3,2.1,6.0,10.5,8.1,1.2,0.6,1.6,1.1,2.6,Orlando Magic,Eastern
+Bol Bol,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Orlando Magic,Eastern
+Ignas Brazdeikis,39,1,11.4,42.9,33.3,66.7,0.4,1.0,4.2,1.4,0.8,0.2,0.1,0.4,1.1,Orlando Magic,Eastern
+Devin Cannady,2,0,29.5,25.0,30.8,50.0,0.5,0.5,6.5,1.0,2.5,1.5,1.0,2.0,1.5,Orlando Magic,Eastern
+Wendell Carter Jr.,62,61,29.9,52.5,32.7,69.1,2.2,8.2,15.0,10.5,2.8,0.6,0.7,1.9,2.7,Orlando Magic,Eastern
+Markelle Fultz,15,0,18.9,45.7,30.8,80.6,0.3,2.4,10.5,2.7,4.8,1.1,0.3,2.0,1.1,Orlando Magic,Eastern
+R.J. Hampton,61,13,21.4,37.9,34.5,62.8,0.3,2.6,7.3,2.9,2.3,0.7,0.2,1.3,1.6,Orlando Magic,Eastern
+Gary Harris,61,30,28.4,43.4,38.4,87.4,0.6,1.4,11.1,2.0,1.8,1.0,0.1,1.0,1.8,Orlando Magic,Eastern
+Jonathan Isaac,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Orlando Magic,Eastern
+Robin Lopez,33,9,17.0,56.2,40.0,57.1,1.9,1.5,7.2,3.5,1.5,0.1,0.5,1.3,1.8,Orlando Magic,Eastern
+Chuma Okeke,67,17,24.7,37.0,31.1,84.1,0.7,4.2,8.3,4.9,1.7,1.4,0.6,0.8,1.3,Orlando Magic,Eastern
+Terrence Ross,63,0,23.0,39.7,29.2,86.2,0.3,2.2,10.0,2.6,1.8,0.4,0.2,1.2,1.1,Orlando Magic,Eastern
+Admiral Schofield,36,1,11.9,43.0,31.9,76.9,0.4,1.8,3.6,2.2,0.7,0.1,0.1,0.5,1.5,Orlando Magic,Eastern
+Jalen Suggs,46,43,27.7,36.1,21.6,77.3,0.6,3.1,12.1,3.7,4.4,1.2,0.4,3.0,3.0,Orlando Magic,Eastern
+Moritz Wagner,60,1,14.7,49.0,31.9,80.5,0.7,2.9,8.6,3.6,1.3,0.3,0.2,0.9,1.9,Orlando Magic,Eastern
+Franz Wagner,78,78,31.1,46.8,35.7,86.3,1.1,3.5,15.3,4.6,2.9,0.9,0.4,1.5,2.1,Orlando Magic,Eastern
+Bam Adebayo,54,54,32.6,55.5,0.0,74.8,2.5,7.7,18.9,10.2,3.4,1.4,0.8,2.7,3.1,Miami Heat,Eastern
+Jimmy Butler,55,55,33.8,47.8,22.7,87.1,1.8,4.1,21.3,5.9,5.5,1.7,0.5,2.1,1.5,Miami Heat,Eastern
+Dewayne Dedmon,66,15,15.9,56.6,41.3,75.5,1.6,4.2,6.3,5.8,0.7,0.3,0.6,1.0,2.6,Miami Heat,Eastern
+Udonis Haslem,12,0,5.3,50.0,33.3,100.0,0.3,1.3,2.5,1.6,0.3,0.1,0.1,0.3,0.9,Miami Heat,Eastern
+Tyler Herro,64,10,32.6,44.3,39.3,86.2,0.5,4.5,20.6,5.0,3.9,0.7,0.1,2.6,1.4,Miami Heat,Eastern
+Haywood Highsmith,17,0,7.1,33.3,38.9,50.0,0.4,0.8,1.6,1.2,0.2,0.1,0.1,0.1,0.6,Miami Heat,Eastern
+Kyle Lowry,62,62,33.9,43.6,37.5,85.5,0.5,4.0,13.4,4.5,7.6,1.0,0.3,2.7,2.8,Miami Heat,Eastern
+Caleb Martin,58,11,22.8,50.9,40.5,76.7,1.2,2.6,9.2,3.8,1.1,1.0,0.5,0.8,1.7,Miami Heat,Eastern
+Markieff Morris,17,1,17.5,47.4,33.3,88.9,1.0,1.6,7.6,2.6,1.4,0.4,0.1,1.2,1.9,Miami Heat,Eastern
+Mychal Mulder,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Miami Heat,Eastern
+Victor Oladipo,7,0,19.7,43.1,40.0,62.5,0.3,1.6,8.4,1.9,3.0,0.4,0.1,1.7,1.6,Miami Heat,Eastern
+Duncan Robinson,76,67,26.0,39.6,36.7,83.6,0.3,2.3,10.9,2.6,1.6,0.5,0.2,0.8,2.6,Miami Heat,Eastern
+Javonte Smart,2,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Miami Heat,Eastern
+Max Strus,66,14,23.3,43.7,40.6,78.8,0.4,2.6,10.6,3.0,1.3,0.4,0.2,0.8,1.7,Miami Heat,Eastern
+P.J. Tucker,70,69,28.0,48.5,41.6,73.8,1.4,4.0,7.6,5.4,2.1,0.8,0.2,0.9,2.3,Miami Heat,Eastern
+Gabe Vincent,65,26,23.6,41.6,36.7,81.5,0.3,1.5,8.8,1.9,3.1,0.9,0.2,1.5,2.3,Miami Heat,Eastern
+Omer Yurtseven,54,11,12.1,54.3,12.5,63.2,1.5,3.7,5.4,5.1,0.9,0.3,0.4,0.7,1.5,Miami Heat,Eastern
+Jaylen Brown,63,63,33.7,47.4,36.0,76.7,0.8,5.3,23.7,6.1,3.4,1.0,0.3,2.7,2.4,Boston Celtics,Eastern
+Malik Fitts,6,0,2.7,50.0,40.0,0.0,0.2,0.5,1.3,0.7,0.5,0.0,0.0,0.0,0.2,Boston Celtics,Eastern
+Sam Hauser,23,0,5.4,42.5,41.7,0.0,0.2,0.7,2.1,1.0,0.3,0.0,0.1,0.1,0.3,Boston Celtics,Eastern
+Al Horford,67,67,29.1,45.7,32.6,84.2,1.6,6.1,10.0,7.7,3.4,0.7,1.3,0.9,1.9,Boston Celtics,Eastern
+Luke Kornet,9,0,5.6,53.8,0.0,0.0,0.6,1.0,1.6,1.6,0.3,0.2,0.1,0.0,0.3,Boston Celtics,Eastern
+Juwan Morgan,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Boston Celtics,Eastern
+Aaron Nesmith,49,3,11.0,39.8,26.7,79.2,0.3,1.4,3.7,1.7,0.4,0.4,0.1,0.5,1.3,Boston Celtics,Eastern
+Payton Pritchard,68,2,13.9,42.5,41.2,100.0,0.4,1.4,6.0,1.9,1.9,0.3,0.1,0.6,0.9,Boston Celtics,Eastern
+Matt Ryan,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Boston Celtics,Eastern
+Marcus Smart,68,68,32.6,41.4,32.2,79.1,0.6,3.3,12.0,3.9,5.9,1.7,0.3,2.2,2.3,Boston Celtics,Eastern
+Nik Stauskas,6,0,2.5,33.3,33.3,50.0,0.0,0.0,1.2,0.0,0.2,0.0,0.0,0.2,0.0,Boston Celtics,Eastern
+Jayson Tatum,74,74,36.1,45.2,35.1,85.4,1.1,6.8,27.0,8.0,4.4,1.0,0.6,2.8,2.3,Boston Celtics,Eastern
+Daniel Theis,18,3,16.9,60.0,30.0,66.7,0.9,3.4,6.6,4.3,0.8,0.5,0.8,0.7,2.3,Boston Celtics,Eastern
+Brodric Thomas,10,0,4.8,40.0,12.5,50.0,0.2,0.5,1.5,0.7,0.8,0.0,0.1,0.4,0.6,Boston Celtics,Eastern
+Derrick White,23,3,27.5,39.7,28.6,88.1,0.5,2.8,10.8,3.3,3.6,0.7,0.7,1.2,2.3,Boston Celtics,Eastern
+Grant Williams,74,20,24.2,48.1,41.8,89.9,0.8,2.7,7.9,3.5,1.0,0.5,0.7,0.8,2.4,Boston Celtics,Eastern
+Robert Williams III,61,61,29.6,73.6,0.0,72.2,3.9,5.7,10.0,9.6,2.0,0.9,2.2,1.0,2.2,Boston Celtics,Eastern
+Grayson Allen,65,61,27.4,44.6,40.9,85.7,0.5,2.9,11.1,3.4,1.5,0.7,0.2,0.7,1.5,Milwaukee Bucks,Eastern
+Giannis Antetokounmpo,64,64,33.0,55.4,29.6,72.1,2.0,9.6,30.1,11.6,5.8,1.1,1.4,3.3,3.2,Milwaukee Bucks,Eastern
+Thanasis Antetokounmpo,45,5,9.4,52.3,9.1,58.3,0.9,1.2,3.0,2.1,0.4,0.3,0.2,0.5,1.4,Milwaukee Bucks,Eastern
+DeAndre' Bembry,8,0,9.6,37.5,0.0,0.0,0.5,0.9,0.8,1.4,0.8,0.3,0.0,0.1,1.1,Milwaukee Bucks,Eastern
+Jevon Carter,16,1,18.2,58.5,61.1,100.0,0.3,1.9,6.6,2.1,2.6,0.4,0.2,0.4,1.0,Milwaukee Bucks,Eastern
+Pat Connaughton,62,19,26.3,46.1,39.7,82.7,0.7,3.5,10.1,4.2,1.3,0.9,0.2,0.5,1.3,Milwaukee Bucks,Eastern
+George Hill,51,17,23.6,42.5,31.0,91.1,0.7,2.2,6.2,3.0,2.3,0.8,0.1,0.8,1.3,Milwaukee Bucks,Eastern
+Jrue Holiday,63,60,33.4,50.2,41.6,76.7,1.0,3.5,18.7,4.5,6.8,1.7,0.4,2.8,2.0,Milwaukee Bucks,Eastern
+Serge Ibaka,18,2,18.2,50.5,36.1,80.0,1.1,4.2,6.9,5.3,0.7,0.2,0.4,0.6,2.4,Milwaukee Bucks,Eastern
+Brook Lopez,10,8,22.4,42.2,34.1,78.6,1.3,2.2,10.1,3.5,0.6,0.6,1.0,1.0,3.0,Milwaukee Bucks,Eastern
+Sandro Mamukelashvili,38,2,9.3,47.9,42.2,75.0,0.8,1.0,3.2,1.8,0.5,0.2,0.2,0.3,0.7,Milwaukee Bucks,Eastern
+Wesley Matthews,46,11,20.2,37.9,33.1,73.9,0.6,1.3,4.8,1.9,0.7,0.5,0.2,0.4,1.8,Milwaukee Bucks,Eastern
+Khris Middleton,63,63,32.5,44.1,37.4,89.0,0.7,4.8,20.1,5.4,5.4,1.1,0.3,2.9,2.4,Milwaukee Bucks,Eastern
+Jordan Nwora,59,12,19.2,41.1,35.0,81.3,0.6,2.9,7.8,3.5,0.9,0.4,0.3,0.9,1.3,Milwaukee Bucks,Eastern
+Bobby Portis,69,59,28.3,47.8,39.4,75.2,2.5,6.6,14.7,9.1,1.2,0.8,0.7,1.3,2.4,Milwaukee Bucks,Eastern
+Lindell Wigginton,17,0,8.9,44.2,36.8,55.6,0.1,1.1,3.5,1.2,0.8,0.2,0.1,0.6,0.7,Milwaukee Bucks,Eastern
+Charles Bassey,23,0,7.3,63.8,0.0,75.0,1.0,1.7,3.0,2.7,0.3,0.2,0.7,0.3,1.4,Philadelphia 76ers,Eastern
+Charlie Brown Jr.,19,2,8.5,26.5,11.1,90.0,0.7,0.9,1.5,1.6,0.3,0.4,0.2,0.3,0.8,Philadelphia 76ers,Eastern
+Joel Embiid,65,65,33.6,49.3,36.8,81.7,2.1,9.4,30.2,11.6,4.2,1.1,1.5,3.1,2.7,Philadelphia 76ers,Eastern
+Danny Green,58,25,21.5,38.9,37.1,83.3,0.4,2.0,5.7,2.4,0.9,0.9,0.6,0.7,1.7,Philadelphia 76ers,Eastern
+James Harden,18,18,37.4,40.7,33.9,89.0,0.7,6.9,22.0,7.7,9.8,1.3,0.3,3.3,2.4,Philadelphia 76ers,Eastern
+Tobias Harris,69,69,35.0,48.4,35.6,83.9,1.1,5.8,17.5,6.9,3.5,0.6,0.6,1.6,2.2,Philadelphia 76ers,Eastern
+Isaiah Joe,53,1,10.8,35.2,33.3,93.1,0.1,0.8,3.5,1.0,0.6,0.2,0.1,0.3,0.8,Philadelphia 76ers,Eastern
+DeAndre Jordan,14,0,13.0,55.6,0.0,83.3,1.9,3.4,4.3,5.4,0.4,0.1,0.6,1.1,1.1,Philadelphia 76ers,Eastern
+Furkan Korkmaz,64,19,21.5,39.2,29.3,80.0,0.3,2.4,7.8,2.7,1.9,0.5,0.1,0.7,0.9,Philadelphia 76ers,Eastern
+Tyrese Maxey,71,70,35.5,47.9,41.7,86.0,0.4,2.9,17.1,3.3,4.3,0.7,0.4,1.1,2.1,Philadelphia 76ers,Eastern
+Paul Millsap,9,1,11.8,43.3,25.0,71.4,1.3,1.4,3.7,2.8,0.6,0.6,0.2,0.9,2.1,Philadelphia 76ers,Eastern
+Shake Milton,51,6,21.3,41.8,30.3,81.8,0.5,2.1,7.8,2.6,2.5,0.5,0.3,0.8,1.8,Philadelphia 76ers,Eastern
+Georges Niang,74,7,23.0,43.5,39.9,88.1,0.3,2.4,9.2,2.7,1.4,0.4,0.2,0.8,2.5,Philadelphia 76ers,Eastern
+Myles Powell,11,0,4.7,29.4,16.7,100.0,0.1,0.5,1.2,0.5,0.3,0.1,0.0,0.3,0.7,Philadelphia 76ers,Eastern
+Paul Reed,35,2,7.4,47.4,25.0,40.0,1.0,1.1,2.2,2.1,0.4,0.7,0.4,0.3,1.3,Philadelphia 76ers,Eastern
+Jaden Springer,2,0,3.0,100.0,0.0,0.0,0.5,0.5,1.0,1.0,0.0,0.0,1.0,0.5,0.0,Philadelphia 76ers,Eastern
+Matisse Thybulle,63,48,25.5,50.5,31.7,79.1,0.6,1.7,5.9,2.3,1.1,1.8,1.1,0.6,2.4,Philadelphia 76ers,Eastern
+Lonzo Ball,35,35,34.6,42.3,42.3,75.0,1.0,4.4,13.0,5.4,5.1,1.8,0.9,2.3,2.4,Chicago Bulls,Eastern
+Tony Bradley,52,7,10.1,57.7,0.0,68.0,1.2,2.2,2.8,3.4,0.5,0.2,0.6,0.6,1.1,Chicago Bulls,Eastern
+Troy Brown Jr.,62,6,15.9,41.5,34.7,76.0,0.6,2.4,4.1,3.0,0.9,0.5,0.1,0.4,1.0,Chicago Bulls,Eastern
+Alex Caruso,40,17,28.1,40.8,34.7,79.5,0.8,2.8,7.6,3.6,3.9,1.8,0.4,1.4,2.6,Chicago Bulls,Eastern
+Tyler Cook,19,2,10.3,61.1,0.0,64.5,0.8,1.9,3.4,2.7,0.2,0.2,0.2,0.4,1.4,Chicago Bulls,Eastern
+DeMar DeRozan,73,73,36.2,50.3,35.5,87.7,0.7,4.5,28.0,5.3,5.0,0.9,0.3,2.3,2.3,Chicago Bulls,Eastern
+Ayo Dosunmu,73,37,27.3,51.6,36.9,67.6,0.3,2.4,8.5,2.7,3.3,0.7,0.4,1.3,2.4,Chicago Bulls,Eastern
+Javonte Green,61,44,23.3,54.3,36.2,83.0,1.4,2.8,7.2,4.2,0.9,1.0,0.5,0.5,2.1,Chicago Bulls,Eastern
+Malcolm Hill,14,0,10.8,43.9,34.5,70.0,0.6,1.2,3.8,1.9,0.3,0.1,0.1,0.1,1.1,Chicago Bulls,Eastern
+Derrick Jones Jr.,47,8,17.2,54.6,32.0,79.0,1.2,2.1,5.4,3.3,0.5,0.5,0.6,0.5,2.1,Chicago Bulls,Eastern
+Zach LaVine,65,65,34.9,47.7,39.3,85.1,0.3,4.3,24.7,4.6,4.5,0.6,0.3,2.6,1.8,Chicago Bulls,Eastern
+Marko Simonovic,9,0,3.9,26.7,20.0,72.7,0.6,0.6,1.9,1.1,0.0,0.1,0.1,0.2,0.7,Chicago Bulls,Eastern
+Matt Thomas,40,0,11.5,41.0,38.5,80.0,0.1,1.2,4.0,1.3,0.5,0.2,0.1,0.2,0.5,Chicago Bulls,Eastern
+Tristan Thompson,19,2,16.3,54.9,0.0,52.5,1.6,3.0,5.2,4.6,0.7,0.6,0.3,0.6,1.6,Chicago Bulls,Eastern
+Nikola Vucevic,70,70,33.5,48.0,31.8,75.2,2.0,9.2,18.0,11.2,3.3,1.0,1.0,1.8,2.5,Chicago Bulls,Eastern
+Coby White,58,16,27.3,43.2,37.4,86.2,0.3,2.7,12.6,3.0,2.9,0.4,0.2,1.1,2.2,Chicago Bulls,Eastern
+Patrick Williams,13,5,22.8,53.4,47.1,62.5,0.8,3.0,6.2,3.8,0.6,0.7,0.5,0.5,1.5,Chicago Bulls,Eastern
+Precious Achiuwa,69,27,23.5,44.0,35.8,58.7,2.1,4.6,8.9,6.7,1.1,0.5,0.6,1.1,2.1,Toronto Raptors,Eastern
+OG Anunoby,47,47,36.2,44.5,36.9,75.0,1.5,3.9,17.3,5.4,2.6,1.5,0.5,1.6,2.8,Toronto Raptors,Eastern
+Dalano Banton,63,1,11.0,41.1,25.5,59.5,0.6,1.3,3.2,2.0,1.6,0.4,0.2,0.8,1.1,Toronto Raptors,Eastern
+Scottie Barnes,70,70,35.5,49.0,30.1,73.8,2.6,4.9,15.4,7.5,3.5,1.1,0.8,1.9,2.6,Toronto Raptors,Eastern
+Khem Birch,51,24,17.8,47.8,0.0,74.3,2.2,2.1,4.5,4.3,1.0,0.5,0.5,0.5,1.9,Toronto Raptors,Eastern
+Isaac Bonga,15,0,4.6,23.1,25.0,62.5,0.3,0.2,0.8,0.5,0.3,0.5,0.1,0.1,0.7,Toronto Raptors,Eastern
+Chris Boucher,76,9,20.9,46.4,28.8,77.0,2.3,4.0,9.2,6.2,0.3,0.6,0.9,0.5,2.2,Toronto Raptors,Eastern
+Armoni Brooks,11,1,11.0,32.3,31.0,0.0,0.6,0.8,2.6,1.5,0.9,0.6,0.3,0.3,0.8,Toronto Raptors,Eastern
+Justin Champagnie,35,0,7.8,46.2,34.6,100.0,1.1,0.9,2.2,2.0,0.3,0.2,0.1,0.2,0.9,Toronto Raptors,Eastern
+Malachi Flynn,40,5,12.0,40.7,33.3,60.9,0.2,1.2,4.3,1.4,1.6,0.5,0.1,0.3,1.1,Toronto Raptors,Eastern
+David Johnson,2,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Toronto Raptors,Eastern
+Svi Mykhailiuk,55,5,12.9,39.0,30.2,86.5,0.4,1.3,4.5,1.7,0.8,0.5,0.1,0.6,0.9,Toronto Raptors,Eastern
+Pascal Siakam,65,65,37.9,49.3,35.6,74.6,1.8,6.5,22.4,8.4,5.2,1.2,0.6,2.7,3.4,Toronto Raptors,Eastern
+Gary Trent Jr.,66,65,34.9,41.0,38.0,84.8,0.4,2.4,18.1,2.7,2.0,1.8,0.3,1.1,2.1,Toronto Raptors,Eastern
+Fred VanVleet,64,64,37.9,40.7,38.1,87.7,0.7,3.8,20.4,4.5,6.6,1.7,0.5,2.6,2.5,Toronto Raptors,Eastern
+Yuta Watanabe,36,4,11.7,41.2,36.0,56.8,0.5,1.9,4.3,2.4,0.5,0.2,0.4,0.5,1.1,Toronto Raptors,Eastern
+Thaddeus Young,22,0,17.5,46.2,41.2,43.5,1.5,2.9,6.0,4.3,1.6,1.1,0.5,0.9,1.4,Toronto Raptors,Eastern
+Jarrett Allen,56,56,32.3,67.7,10.0,70.8,3.4,7.3,16.1,10.8,1.6,0.8,1.3,1.7,1.7,Cleveland Cavaliers,Eastern
+Moses Brown,11,4,12.3,62.2,0.0,56.0,1.6,3.8,6.4,5.5,0.0,0.3,0.5,0.4,1.7,Cleveland Cavaliers,Eastern
+Ed Davis,30,3,6.7,68.8,0.0,42.9,0.5,1.7,0.9,2.1,0.2,0.1,0.3,0.2,1.1,Cleveland Cavaliers,Eastern
+Darius Garland,65,65,35.8,46.1,38.0,89.7,0.6,2.7,21.6,3.3,8.6,1.3,0.1,3.8,1.8,Cleveland Cavaliers,Eastern
+Brandon Goodwin,34,5,14.5,42.1,34.5,63.2,0.4,1.6,5.0,2.0,2.6,0.7,0.0,1.0,1.1,Cleveland Cavaliers,Eastern
+Caris LeVert,16,7,29.6,43.5,35.0,72.7,0.8,2.8,14.1,3.5,3.8,0.9,0.3,1.8,1.9,Cleveland Cavaliers,Eastern
+Kevin Love,71,4,22.6,42.3,38.4,84.2,1.1,6.0,13.4,7.1,2.2,0.4,0.2,1.3,1.4,Cleveland Cavaliers,Eastern
+Lauri Markkanen,58,58,31.0,44.0,34.8,86.0,1.0,4.7,14.4,5.7,1.4,0.8,0.5,0.9,2.1,Cleveland Cavaliers,Eastern
+Evan Mobley,67,67,33.9,50.6,25.3,66.4,2.0,6.2,14.9,8.3,2.5,0.8,1.6,2.0,2.2,Cleveland Cavaliers,Eastern
+RJ Nembhard Jr.,13,0,4.6,35.3,0.0,75.0,0.2,0.2,1.2,0.5,0.9,0.1,0.0,0.2,0.2,Cleveland Cavaliers,Eastern
+Isaac Okoro,64,58,29.8,48.0,35.3,78.1,1.1,2.0,9.0,3.1,1.8,0.8,0.3,0.9,2.5,Cleveland Cavaliers,Eastern
+Cedi Osman,63,3,22.1,42.6,35.3,66.1,0.4,1.8,10.7,2.2,2.1,0.8,0.2,1.0,1.9,Cleveland Cavaliers,Eastern
+Rajon Rondo,18,1,20.0,43.3,38.5,75.0,0.2,2.7,6.8,2.9,4.5,0.9,0.1,1.7,1.4,Cleveland Cavaliers,Eastern
+Collin Sexton,11,11,28.7,45.0,24.4,74.4,1.2,2.1,16.0,3.3,2.1,0.9,0.0,2.8,2.3,Cleveland Cavaliers,Eastern
+Lamar Stevens,60,13,16.0,49.7,29.0,70.7,0.8,1.8,6.1,2.6,0.7,0.5,0.3,0.6,1.7,Cleveland Cavaliers,Eastern
+Dean Wade,51,28,19.2,45.6,35.9,66.7,0.6,2.3,5.3,2.9,1.0,0.6,0.1,0.3,1.7,Cleveland Cavaliers,Eastern
+Dylan Windler,48,0,9.1,37.9,30.9,83.3,0.4,1.4,2.3,1.8,0.6,0.3,0.1,0.3,0.9,Cleveland Cavaliers,Eastern
+Bogdan Bogdanovic,59,27,29.2,43.2,35.9,85.8,0.5,3.4,14.8,3.8,3.0,1.1,0.2,1.2,2.1,Atlanta Hawks,Eastern
+Clint Capela,70,69,27.6,60.5,0.0,46.5,3.7,8.1,10.8,11.8,1.3,0.7,1.3,0.6,2.3,Atlanta Hawks,Eastern
+John Collins,54,53,30.8,52.6,36.4,79.3,1.7,6.1,16.2,7.8,1.8,0.6,1.0,1.1,3.0,Atlanta Hawks,Eastern
+Sharife Cooper,11,0,3.2,21.4,16.7,0.0,0.0,0.5,0.6,0.5,0.5,0.0,0.0,0.5,0.1,Atlanta Hawks,Eastern
+Gorgui Dieng,43,3,8.6,48.2,43.9,73.1,0.7,2.1,3.6,2.8,0.8,0.3,0.3,0.5,1.2,Atlanta Hawks,Eastern
+Danilo Gallinari,63,15,25.0,42.5,37.0,90.3,0.5,4.1,11.3,4.6,1.6,0.4,0.2,0.5,1.4,Atlanta Hawks,Eastern
+Kevin Huerter,70,56,29.6,45.2,38.8,80.0,0.4,2.9,12.0,3.4,2.7,0.7,0.4,1.3,2.5,Atlanta Hawks,Eastern
+De'Andre Hunter,49,48,29.7,44.8,37.2,76.0,0.5,2.9,13.4,3.3,1.3,0.7,0.4,1.3,2.9,Atlanta Hawks,Eastern
+Jalen Johnson,19,0,5.8,56.4,25.0,71.4,0.1,1.2,2.7,1.3,0.2,0.2,0.1,0.5,0.5,Atlanta Hawks,Eastern
+Kevin Knox II,15,0,7.2,38.1,21.7,80.0,0.3,1.0,3.0,1.3,0.5,0.1,0.1,0.1,0.9,Atlanta Hawks,Eastern
+Timothe Luwawu-Cabarrot,49,17,13.1,39.9,37.1,87.5,0.3,1.3,4.5,1.6,0.8,0.4,0.1,0.4,1.4,Atlanta Hawks,Eastern
+Skylar Mays,26,5,8.3,50.0,32.0,88.9,0.2,0.8,3.1,1.0,0.7,0.3,0.0,0.4,0.3,Atlanta Hawks,Eastern
+Onyeka Okongwu,44,6,20.7,69.2,0.0,72.2,2.5,3.4,8.4,5.9,1.1,0.6,1.3,0.9,3.1,Atlanta Hawks,Eastern
+Lou Williams,55,0,14.3,39.2,36.6,85.9,0.3,1.3,6.4,1.6,1.9,0.5,0.1,0.8,0.9,Atlanta Hawks,Eastern
+Delon Wright,73,8,18.7,46.2,39.6,86.0,0.7,2.2,4.6,2.8,2.4,1.2,0.3,0.6,0.7,Atlanta Hawks,Eastern
+Trae Young,72,72,34.8,45.9,38.3,90.3,0.6,3.1,28.3,3.8,9.6,1.0,0.1,4.0,1.7,Atlanta Hawks,Eastern
+LaMelo Ball,71,71,32.3,42.5,37.9,86.9,1.5,5.2,19.9,6.7,7.5,1.6,0.4,3.2,3.2,Charlotte Hornets,Eastern
+James Bouknight,28,0,10.6,35.3,34.7,87.1,0.8,1.0,5.0,1.7,0.8,0.3,0.0,0.5,1.0,Charlotte Hornets,Eastern
+Miles Bridges,76,76,35.8,49.1,32.8,79.8,1.2,5.9,20.3,7.1,3.8,0.9,0.9,1.9,2.5,Charlotte Hornets,Eastern
+Montrezl Harrell,22,0,20.9,61.8,0.0,69.3,2.2,2.9,11.3,5.1,2.0,0.4,0.4,0.8,2.0,Charlotte Hornets,Eastern
+Gordon Hayward,49,48,31.9,45.9,39.1,84.6,0.8,3.8,15.9,4.6,3.6,1.0,0.4,1.7,1.7,Charlotte Hornets,Eastern
+Kai Jones,19,0,3.1,61.5,50.0,37.5,0.2,0.4,1.1,0.5,0.2,0.1,0.0,0.3,0.4,Charlotte Hornets,Eastern
+Arnoldas Kulboka,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Charlotte Hornets,Eastern
+Scottie Lewis,2,0,3.5,0.0,0.0,50.0,0.0,0.0,0.5,0.0,0.5,0.5,0.0,0.0,0.0,Charlotte Hornets,Eastern
+Cody Martin,67,11,26.3,47.4,38.4,69.2,1.1,2.9,7.7,4.0,2.5,1.2,0.4,0.9,1.7,Charlotte Hornets,Eastern
+Jalen McDaniels,51,2,16.1,46.5,35.7,72.1,0.7,2.4,5.8,3.0,1.0,0.4,0.4,0.7,1.7,Charlotte Hornets,Eastern
+Kelly Oubre Jr.,72,13,26.7,43.8,34.5,66.7,1.1,2.9,15.2,4.0,1.1,1.0,0.4,0.9,2.5,Charlotte Hornets,Eastern
+Mason Plumlee,69,69,24.9,63.5,0.0,39.1,2.5,5.4,6.6,7.9,3.2,0.8,0.7,1.3,3.1,Charlotte Hornets,Eastern
+Nick Richards,48,5,7.5,67.8,0.0,69.8,0.7,1.1,3.1,1.7,0.3,0.2,0.4,0.5,1.0,Charlotte Hornets,Eastern
+Terry Rozier,69,69,33.9,44.0,37.7,85.0,0.8,3.6,19.3,4.3,4.4,1.3,0.3,1.4,1.7,Charlotte Hornets,Eastern
+Isaiah Thomas,13,0,13.7,42.7,37.8,90.9,0.2,1.2,8.4,1.4,1.6,0.5,0.2,0.6,1.2,Charlotte Hornets,Eastern
+JT Thor,29,0,8.5,44.4,26.9,62.5,0.4,1.0,2.2,1.4,0.6,0.3,0.3,0.3,0.9,Charlotte Hornets,Eastern
+P.J. Washington,61,24,27.0,46.3,36.7,71.6,1.3,4.0,10.3,5.3,2.2,0.9,0.9,1.2,2.3,Charlotte Hornets,Eastern
+LaMarcus Aldridge,45,12,22.8,55.4,31.1,87.3,1.6,4.0,13.5,5.6,0.9,0.3,1.0,0.9,1.6,Brooklyn Nets,Eastern
+Bruce Brown,68,41,24.0,50.3,38.1,74.8,1.4,3.3,8.6,4.7,1.9,1.1,0.6,0.7,2.4,Brooklyn Nets,Eastern
+Nic Claxton,43,19,20.6,67.2,0.0,58.0,1.9,3.6,8.7,5.5,0.9,0.5,1.1,0.8,2.2,Brooklyn Nets,Eastern
+Seth Curry,17,17,30.0,49.0,47.7,88.9,0.2,2.4,15.1,2.6,2.5,0.9,0.2,1.4,2.5,Brooklyn Nets,Eastern
+Goran Dragic,16,6,25.5,37.6,24.5,73.9,0.7,2.5,7.3,3.2,4.8,0.9,0.2,2.1,2.3,Brooklyn Nets,Eastern
+Andre Drummond,20,20,22.7,60.8,0.0,51.9,3.8,6.3,11.7,10.1,1.6,1.0,0.9,1.6,2.9,Brooklyn Nets,Eastern
+David Duke Jr.,21,7,16.2,36.1,24.3,81.0,1.4,1.8,5.0,3.2,0.8,0.7,0.3,0.4,1.7,Brooklyn Nets,Eastern
+Kevin Durant,51,51,37.0,52.4,39.3,90.5,0.5,6.8,30.1,7.3,6.1,0.9,0.9,3.4,2.0,Brooklyn Nets,Eastern
+Kessler Edwards,44,22,20.0,41.5,37.4,81.3,0.9,2.6,5.8,3.5,0.6,0.6,0.5,0.9,1.8,Brooklyn Nets,Eastern
+Blake Griffin,56,24,17.1,42.5,26.2,72.4,1.1,3.0,6.4,4.1,1.9,0.5,0.3,0.6,1.7,Brooklyn Nets,Eastern
+Joe Harris,14,14,30.2,45.2,46.6,83.3,0.4,3.6,11.3,4.0,1.0,0.5,0.1,1.1,2.2,Brooklyn Nets,Eastern
+Kyrie Irving,25,25,37.2,46.8,42.4,91.2,0.5,3.6,27.1,4.1,5.6,1.3,0.6,2.4,2.8,Brooklyn Nets,Eastern
+James Johnson,62,10,19.2,46.9,27.1,52.7,0.8,2.6,5.5,3.5,2.1,0.5,0.5,0.8,2.6,Brooklyn Nets,Eastern
+Patty Mills,77,47,29.1,40.6,39.8,82.1,0.2,1.7,11.5,2.0,2.3,0.6,0.2,0.9,1.4,Brooklyn Nets,Eastern
+Day'Ron Sharpe,32,8,12.2,57.7,28.6,58.5,2.5,2.5,6.2,5.0,0.5,0.3,0.5,0.9,1.9,Brooklyn Nets,Eastern
+Ben Simmons,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brooklyn Nets,Eastern
+Cam Thomas,63,2,18.2,43.0,26.5,82.8,0.3,2.2,8.7,2.5,1.2,0.5,0.1,0.8,1.0,Brooklyn Nets,Eastern
+Ryan Arcidiacono,8,0,5.0,66.7,75.0,0.0,0.0,0.5,1.4,0.5,0.1,0.0,0.0,0.1,0.0,New York Knicks,Eastern
+RJ Barrett,68,68,34.7,41.0,34.6,72.1,1.0,4.9,20.1,5.9,2.9,0.6,0.2,2.2,2.0,New York Knicks,Eastern
+Alec Burks,78,41,28.3,39.1,40.2,82.5,0.6,4.3,11.6,4.9,2.9,1.1,0.3,1.0,2.6,New York Knicks,Eastern
+Evan Fournier,77,77,29.5,42.0,39.3,71.2,0.4,2.2,14.2,2.6,2.1,1.0,0.2,1.3,2.2,New York Knicks,Eastern
+Taj Gibson,49,4,18.1,51.6,38.9,79.2,1.7,2.7,4.3,4.4,0.6,0.4,0.8,0.5,2.7,New York Knicks,Eastern
+Quentin Grimes,46,6,17.1,40.4,38.1,68.4,0.5,1.5,6.0,2.0,1.0,0.7,0.2,0.6,1.6,New York Knicks,Eastern
+Feron Hunt,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,New York Knicks,Eastern
+Miles McBride,38,2,9.1,30.3,24.6,66.7,0.1,0.9,2.2,1.1,1.1,0.3,0.0,0.1,1.2,New York Knicks,Eastern
+Nerlens Noel,25,11,22.5,53.3,0.0,70.0,1.9,3.7,3.4,5.6,0.9,1.2,1.2,0.8,2.7,New York Knicks,Eastern
+Immanuel Quickley,75,2,22.6,39.0,34.6,88.8,0.4,2.7,10.9,3.0,3.3,0.7,0.0,1.2,2.2,New York Knicks,Eastern
+Julius Randle,72,72,35.3,41.1,30.8,75.6,1.7,8.2,20.1,9.9,5.1,0.7,0.5,3.4,2.8,New York Knicks,Eastern
+Cam Reddish,15,0,14.4,41.5,25.8,90.6,0.3,1.1,6.1,1.4,0.7,0.8,0.3,0.9,1.0,New York Knicks,Eastern
+Mitchell Robinson,72,62,25.7,76.1,0.0,48.6,4.1,4.5,8.5,8.6,0.5,0.8,1.8,0.8,2.7,New York Knicks,Eastern
+Derrick Rose,26,4,24.5,44.5,40.2,96.8,0.8,2.2,12.0,3.0,4.0,0.8,0.5,1.5,0.6,New York Knicks,Eastern
+Jericho Sims,38,2,11.8,77.5,0.0,31.6,1.3,2.2,1.8,3.5,0.4,0.2,0.4,0.4,1.4,New York Knicks,Eastern
+Obi Toppin,69,7,16.1,52.2,26.8,76.1,0.9,2.7,8.0,3.6,1.0,0.3,0.4,0.8,1.4,New York Knicks,Eastern
+Kemba Walker,37,37,25.6,40.3,36.7,84.5,0.4,2.6,11.6,3.0,3.5,0.7,0.2,1.3,1.0,New York Knicks,Eastern
+Deni Avdija,78,6,23.8,43.2,32.6,76.5,0.6,4.5,8.2,5.1,1.9,0.7,0.5,1.0,2.3,Washington Wizards,Eastern
+Bradley Beal,40,40,36.0,45.1,30.0,83.3,1.0,3.8,23.2,4.7,6.6,0.9,0.4,3.4,2.4,Washington Wizards,Eastern
+Thomas Bryant,25,9,16.4,53.5,30.0,87.5,1.0,2.8,8.0,3.8,0.9,0.2,0.7,0.7,1.6,Washington Wizards,Eastern
+Kentavious Caldwell-Pope,75,75,30.3,43.3,39.3,89.0,0.5,2.9,13.3,3.4,1.9,1.1,0.3,1.2,1.8,Washington Wizards,Eastern
+Vernon Carey Jr.,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Washington Wizards,Eastern
+Daniel Gafford,68,51,19.9,68.9,0.0,70.4,2.2,3.5,9.1,5.7,0.9,0.4,1.4,0.9,2.3,Washington Wizards,Eastern
+Anthony Gill,41,0,10.1,58.5,54.2,80.0,0.7,1.1,4.0,1.8,0.6,0.1,0.3,0.3,1.3,Washington Wizards,Eastern
+Rui Hachimura,38,9,21.4,49.2,45.7,75.0,0.6,3.2,10.6,3.7,1.1,0.6,0.2,0.8,1.2,Washington Wizards,Eastern
+Corey Kispert,73,32,23.1,45.0,34.4,86.7,0.7,1.9,8.0,2.6,1.1,0.4,0.3,0.6,1.2,Washington Wizards,Eastern
+Kyle Kuzma,66,66,33.4,45.2,34.1,71.2,1.1,7.4,17.1,8.5,3.5,0.6,0.9,2.6,1.9,Washington Wizards,Eastern
+Raul Neto,67,19,19.8,45.8,29.3,76.2,0.2,1.8,7.5,2.0,3.2,0.8,0.0,1.1,1.5,Washington Wizards,Eastern
+Kristaps Porzingis,15,15,27.9,46.0,33.3,87.2,2.2,6.1,21.7,8.3,3.0,0.7,1.5,1.7,2.9,Washington Wizards,Eastern
+Tomas Satoransky,18,6,18.3,44.4,25.0,84.0,0.4,2.4,4.5,2.8,4.4,0.8,0.2,0.9,1.7,Washington Wizards,Eastern
+Jordan Schakel,2,0,7.0,0.0,0.0,0.0,1.0,0.5,0.0,1.5,0.0,0.0,0.0,0.0,0.0,Washington Wizards,Eastern
+Ish Smith,24,0,22.0,46.2,32.4,60.0,0.6,2.4,8.6,3.0,5.0,0.9,0.5,1.4,1.7,Washington Wizards,Eastern
+Isaiah Todd,10,0,4.1,29.4,36.4,33.3,0.2,0.8,1.6,1.0,0.3,0.2,0.2,0.1,0.1,Washington Wizards,Eastern
+Cassius Winston,5,0,5.4,50.0,40.0,100.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.2,1.4,Washington Wizards,Eastern
+Justin Anderson,12,6,22.0,37.6,25.0,80.0,0.3,3.0,7.4,3.3,2.1,0.6,0.4,0.5,1.5,Indiana Pacers,Eastern
+Goga Bitadze,50,16,14.6,52.0,28.8,68.1,1.6,2.0,7.0,3.5,1.1,0.4,0.8,0.9,2.1,Indiana Pacers,Eastern
+Oshae Brissett,64,22,23.0,40.9,34.7,69.8,1.6,3.7,8.8,5.3,1.0,0.7,0.5,0.8,1.7,Indiana Pacers,Eastern
+Malcolm Brogdon,36,36,33.5,44.8,31.2,85.6,0.9,4.2,19.1,5.1,5.9,0.8,0.4,2.1,2.0,Indiana Pacers,Eastern
+Chris Duarte,55,39,28.0,43.2,36.9,80.4,0.7,3.4,13.1,4.1,2.1,1.0,0.2,1.6,1.7,Indiana Pacers,Eastern
+Tyrese Haliburton,23,23,35.8,49.1,40.9,84.0,0.8,3.5,17.3,4.3,9.8,1.9,0.6,3.1,2.0,Indiana Pacers,Eastern
+Buddy Hield,23,23,35.8,44.8,36.5,87.1,0.8,4.2,18.0,5.0,4.9,0.9,0.4,2.4,2.8,Indiana Pacers,Eastern
+Isaiah Jackson,33,12,13.8,56.7,30.8,64.9,1.7,2.4,7.8,4.1,0.3,0.6,1.4,1.1,2.4,Indiana Pacers,Eastern
+T.J. McConnell,24,6,24.2,50.3,28.0,80.0,0.8,2.5,8.4,3.3,4.8,1.0,0.4,1.2,1.8,Indiana Pacers,Eastern
+Ricky Rubio,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Indiana Pacers,Eastern
+Jalen Smith,21,4,24.4,52.7,37.2,74.5,2.1,5.6,13.1,7.7,0.8,0.4,1.0,0.9,2.0,Indiana Pacers,Eastern
+Lance Stephenson,37,1,18.9,45.2,29.8,79.7,0.3,2.6,9.3,2.9,3.8,0.6,0.1,1.7,2.2,Indiana Pacers,Eastern
+Keifer Sykes,32,11,17.7,36.3,30.0,88.2,0.3,1.2,5.6,1.4,1.9,0.4,0.1,1.0,1.6,Indiana Pacers,Eastern
+Terry Taylor,30,6,21.1,63.0,38.7,68.9,2.8,2.5,9.5,5.2,1.2,0.4,0.2,0.7,1.8,Indiana Pacers,Eastern
+Myles Turner,42,42,29.4,50.9,33.3,75.2,1.5,5.5,12.9,7.1,1.0,0.7,2.8,1.3,2.8,Indiana Pacers,Eastern
+T.J. Warren,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Indiana Pacers,Eastern
+Duane Washington Jr.,45,7,20.0,39.5,36.2,77.2,0.1,1.7,9.5,1.8,1.8,0.5,0.1,1.2,1.4,Indiana Pacers,Eastern
+Marvin Bagley III,18,8,27.2,55.5,22.9,59.3,2.1,4.7,14.6,6.8,1.1,0.7,0.4,1.0,2.4,Detroit Pistons,Eastern
+Saddiq Bey,79,79,33.2,40.0,35.2,82.4,1.3,4.2,16.3,5.5,2.8,0.9,0.2,1.2,1.6,Detroit Pistons,Eastern
+Cade Cunningham,62,62,32.4,41.9,31.9,83.9,0.9,4.6,17.3,5.5,5.5,1.2,0.7,3.6,3.1,Detroit Pistons,Eastern
+Hamidou Diallo,58,29,21.9,49.6,24.7,65.0,1.2,3.6,11.0,4.8,1.3,1.2,0.3,1.0,2.5,Detroit Pistons,Eastern
+Carsen Edwards,1,0,31.0,33.3,33.3,100.0,1.0,2.0,13.0,3.0,9.0,2.0,0.0,1.0,3.0,Detroit Pistons,Eastern
+Luka Garza,31,5,11.5,45.0,33.3,65.5,1.6,1.3,5.4,2.9,0.5,0.3,0.2,0.5,1.7,Detroit Pistons,Eastern
+Jerami Grant,47,47,31.9,42.6,35.8,83.8,0.6,3.5,19.2,4.1,2.4,0.9,1.0,1.8,2.3,Detroit Pistons,Eastern
+Killian Hayes,63,37,25.1,38.5,26.9,76.5,0.6,2.6,6.8,3.2,4.3,1.2,0.5,1.7,2.8,Detroit Pistons,Eastern
+Frank Jackson,50,6,22.2,40.6,31.5,81.6,0.3,1.2,10.8,1.6,1.0,0.5,0.2,0.7,1.7,Detroit Pistons,Eastern
+Cory Joseph,65,39,24.6,44.5,41.4,88.5,0.4,2.2,8.0,2.7,3.6,0.6,0.3,1.3,2.3,Detroit Pistons,Eastern
+Braxton Key,6,0,21.7,39.2,33.3,40.0,1.5,4.3,7.7,5.8,0.7,1.2,1.3,0.8,3.3,Detroit Pistons,Eastern
+Saben Lee,35,0,15.8,38.0,23.7,79.3,0.4,1.9,5.3,2.3,2.7,0.9,0.3,0.8,1.1,Detroit Pistons,Eastern
+Isaiah Livers,16,2,19.7,43.6,41.4,80.0,0.8,2.3,6.3,3.1,1.2,0.6,0.4,0.8,2.0,Detroit Pistons,Eastern
+Rodney McGruder,49,2,14.4,42.0,39.1,70.0,0.6,1.5,4.9,2.1,0.9,0.4,0.1,0.4,1.1,Detroit Pistons,Eastern
+Kelly Olynyk,39,1,19.0,44.4,33.9,76.3,1.4,3.1,8.9,4.4,2.7,0.8,0.5,1.4,2.5,Detroit Pistons,Eastern
+Jamorko Pickett,11,0,12.1,30.8,29.0,50.0,0.5,1.6,3.1,2.2,0.6,0.0,0.5,0.3,0.8,Detroit Pistons,Eastern
+Isaiah Stewart,68,68,25.7,51.2,24.3,70.1,3.1,5.5,8.2,8.6,1.1,0.3,1.1,1.2,3.0,Detroit Pistons,Eastern
+Cole Anthony,65,65,31.7,39.1,33.8,85.4,0.5,4.9,16.3,5.4,5.7,0.7,0.3,2.6,2.6,Orlando Magic,Eastern
+Mo Bamba,68,66,25.9,47.5,37.0,80.3,2.1,6.0,10.5,8.1,1.2,0.6,1.6,1.1,2.6,Orlando Magic,Eastern
+Bol Bol,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Orlando Magic,Eastern
+Ignas Brazdeikis,39,1,11.4,42.9,33.3,66.7,0.4,1.0,4.2,1.4,0.8,0.2,0.1,0.4,1.1,Orlando Magic,Eastern
+Devin Cannady,2,0,29.5,25.0,30.8,50.0,0.5,0.5,6.5,1.0,2.5,1.5,1.0,2.0,1.5,Orlando Magic,Eastern
+Wendell Carter Jr.,62,61,29.9,52.5,32.7,69.1,2.2,8.2,15.0,10.5,2.8,0.6,0.7,1.9,2.7,Orlando Magic,Eastern
+Markelle Fultz,15,0,18.9,45.7,30.8,80.6,0.3,2.4,10.5,2.7,4.8,1.1,0.3,2.0,1.1,Orlando Magic,Eastern
+R.J. Hampton,61,13,21.4,37.9,34.5,62.8,0.3,2.6,7.3,2.9,2.3,0.7,0.2,1.3,1.6,Orlando Magic,Eastern
+Gary Harris,61,30,28.4,43.4,38.4,87.4,0.6,1.4,11.1,2.0,1.8,1.0,0.1,1.0,1.8,Orlando Magic,Eastern
+Jonathan Isaac,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Orlando Magic,Eastern
+Robin Lopez,33,9,17.0,56.2,40.0,57.1,1.9,1.5,7.2,3.5,1.5,0.1,0.5,1.3,1.8,Orlando Magic,Eastern
+Chuma Okeke,67,17,24.7,37.0,31.1,84.1,0.7,4.2,8.3,4.9,1.7,1.4,0.6,0.8,1.3,Orlando Magic,Eastern
+Terrence Ross,63,0,23.0,39.7,29.2,86.2,0.3,2.2,10.0,2.6,1.8,0.4,0.2,1.2,1.1,Orlando Magic,Eastern
+Admiral Schofield,36,1,11.9,43.0,31.9,76.9,0.4,1.8,3.6,2.2,0.7,0.1,0.1,0.5,1.5,Orlando Magic,Eastern
+Jalen Suggs,46,43,27.7,36.1,21.6,77.3,0.6,3.1,12.1,3.7,4.4,1.2,0.4,3.0,3.0,Orlando Magic,Eastern
+Moritz Wagner,60,1,14.7,49.0,31.9,80.5,0.7,2.9,8.6,3.6,1.3,0.3,0.2,0.9,1.9,Orlando Magic,Eastern
+Franz Wagner,78,78,31.1,46.8,35.7,86.3,1.1,3.5,15.3,4.6,2.9,0.9,0.4,1.5,2.1,Orlando Magic,Eastern

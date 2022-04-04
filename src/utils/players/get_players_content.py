@@ -6,8 +6,10 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 def get_players_content(team_link):
     """
-
-    :return:
+    This functions opens a 'Chrome' browser and gets the HTML of the URL = team_link. It returns a BeautifulSoup
+    element with the content of the URL mentioned before.
+    :param team_link: an string with a valid link to the page of an NBA team.
+    :return: It returns a BeautifulSoup object with the content of 'team_link'.
     """
 
     # Definition of service and driver to pull 'page_source'
@@ -23,5 +25,5 @@ def get_players_content(team_link):
     # Quit the driver
     driver.quit()
 
-    # Return the BeautifulSoup object
+    # Returns the BeautifulSoup object
     return soup

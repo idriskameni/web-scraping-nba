@@ -1,6 +1,6 @@
 def get_teams_links(standings_content):
     """
-
+    Finish documentation.
     :param standings_content:
     :return:
     """
@@ -10,10 +10,10 @@ def get_teams_links(standings_content):
     eastern_links = []
     western_links = []
 
-    for object in html_objects:
-        conference = str(object.get('data-title')).lower()
+    for html_object in html_objects:
+        conference = str(html_object.get('data-title')).lower()
         if conference == 'eastern':
-            table = object.find('table')
+            table = html_object.find('table')
             links_list = table.find_all('td', {'class': 'nobr player desktop'})
             for link in links_list:
                 eastern_links.append(
@@ -23,7 +23,7 @@ def get_teams_links(standings_content):
                     }
                 )
         elif conference == 'western':
-            table = object.find('table')
+            table = html_object.find('table')
             links_list = table.find_all('td', {'class': 'nobr player desktop'})
             for link in links_list:
                 western_links.append(

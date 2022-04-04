@@ -1,19 +1,17 @@
+import pandas as pd
 from sys import path
-
 path.append('../../')
-
 from src.utils.teams.get_teams_standings_content import get_teams_standings_content
 from src.utils.teams.create_teams_standings_datasets import create_teams_standings_datasets
 from src.utils.teams.get_teams_links import get_teams_links
 from src.utils.players.get_players_content import get_players_content
 from src.utils.players.create_players_datasets import create_players_datasets
 from src.utils.generic.save_dataframe import save_dataframe
-import pandas as pd
 
 
 def web_scraping_nba():
     """
-
+    Finish documentation.
     :return:
     """
 
@@ -37,7 +35,7 @@ def web_scraping_nba():
     western_list_of_list_of_players_datasets = []
     western_list_of_stats_of_players_datasets = []
 
-    for link in eastern_teams_links[1:2] + western_teams_links[1:2]:
+    for link in eastern_teams_links + western_teams_links:
 
         splitted_link = link['team_link'].split('/')
         url = base_url + splitted_link[1] + '/roster/' + splitted_link[2] + '/' + splitted_link[3]

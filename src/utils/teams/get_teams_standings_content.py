@@ -6,8 +6,10 @@ from bs4 import BeautifulSoup
 
 def get_teams_standings_content(base_url):
     """
-
-    :return:
+    This functions opens a 'Chrome' browser and gets the HTML of the URL = base_url + 'standings/'. It has been built
+    to be executed by passing base_url = 'https://es.global.nba.com/'.
+    :param base_url: string that must be equal to 'https://es.global.nba.com/'
+    :return: It returns a BeautifulSoup object with the content of 'https://es.global.nba.com/'.
     """
 
     # Definition of service and driver to pull 'page_source'
@@ -23,5 +25,5 @@ def get_teams_standings_content(base_url):
     # Quit the driver
     driver.quit()
 
-    # Return the BeautifulSoup object
+    # Returns the BeautifulSoup object
     return soup
