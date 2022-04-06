@@ -55,8 +55,9 @@ l'extracció de coneixement (basat en dades) en l'àmbit de l'*NBA*.
 
 ### 2. Títols dels conjunts de dades. 
 
-En el repositori s'extreuen 4 conjunts de dades:
+En el repositori s'extreuen 6 conjunts de dades:
 
+#### 2.1. teams_standing_eastern_conference i teams_standing_western_conference
 - **web-scraping-nba/docs/teams_standings/<ins>teams_standing_eastern_conference.csv</ins>**:
 classificació dels equips de la conferència 'EAST' de l'*NBA*
 en el moment de l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.py'.
@@ -65,6 +66,7 @@ en el moment de l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/we
 classificació dels equips de la conferència 'WEST' de l'*NBA*
 en el moment de l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.py'.
 
+#### 2.2. players_stats_eastern_conference i players_stats_western_conference
 - **web-scraping-nba/docs/players_stats/<ins>players_stats_eastern_conference.csv</ins>**:
 llistat i estadístiques de la temporada dels jugadors de cada equip de la conferència 'EAST' de l'*NBA* en el moment de
 l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.py'.  
@@ -73,7 +75,7 @@ l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.p
 llistat i estadístiques de la temporada dels jugadors de cada equip de la conferència 'WEST' de l'*NBA* en el moment de
 l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.py'.  
 
-
+#### 2.3. players_list_eastern_conference i players_list_western_conference
 - **web-scraping-nba/docs/players_list/<ins>players_list_eastern_conference.csv</ins>**:
 llistat i informació biogràfica dels jugadors de cada equip de la conferència 'EAST' i de l'*NBA* en el moment de
 l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.py'.  
@@ -85,45 +87,38 @@ l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.p
 
 ### 3. Descripció del dataset. 
 
-- #### teams_standing_eastern_conference
-
-    El dataset mostra les dades de la classificació dels 15 equips de la Conferència Est de la primera lliga americana de bàsquet de l'NBA. La taula està ordenada des de l'equip que té la màxima puntuació fins al que té menys punts. Altres dades que mostra la taula són per exemple els partits guanyats a casa o a fora, entre d'altres.
-
-- #### teams_standing_western_conference
+#### 3.1. teams_standing_eastern_conference i teams_standing_western_conference
+- El dataset mostra les dades de la classificació dels 15 equips de la conferència 'EAST' i 'WEST' (respectivament) de la
+primera lliga americana de bàsquet de l'NBA. La taula està ordenada des de l'equip que té la màxima puntuació fins al
+que té menys punts. Altres dades que mostra la taula són per exemple els partits guanyats a casa o a fora, entre
+d'altres.
     
-    El dataset mostra les dades de la classificació dels 15 equips de la Conferència Oest de la primera lliga americana de bàsquet de l'NBA. La taula està ordenada des de l'equip que té la màxima puntuació fins al que té menys punts. Altres dades que mostra la taula són per exemple els partits guanyats a casa o a fora, entre d'altres.
+#### 3.2. players_stats_eastern_conference i players_stats_western_conference
+- El conjunt de dades llista cadascun dels jugadors de cada equip de la conferència 'EAST' i 'WEST' (respectivament) de
+l'NBA on en les diverses columnes s'observen estadístiques tècniques de la temporada actual.
 
-- #### players_list_eastern_conference
-
-  El conjunt de dades llista cadascun dels jugadors de cada equip de l'NBA de la conferència Est on en les diverses columnes mostren dades biogràfiques com altura, pes, data de naixement, entre d'altres.
-  
-- #### players_list_western_conference
-
-    El conjunt de dades llista cadascun dels jugadors de cada equip de l'NBA de la conferència Oest on en les diverses columnes mostren dades biogràfiques com altura, pes, data de naixement, entre d'altres.
-
-- #### players_stats_eastern_conference
-
-    El conjunt de dades llista cadascun dels jugadors de cada equip de la conferència 'EAST' de l'NBA on en les diverses columnes s'observen estadístiques tècniques de la temporada actual.
-
-- #### players_stats_western_conference
-
-    El conjunt de dades llista cadascun dels jugadors de cada equip de la conferència 'WEST' de l'NBA on en les diverses columnes s'observen estadístiques tècniques de la temporada actual.
+#### 3.3. players_list_eastern_conference i players_list_western_conference
+- El conjunt de dades llista cadascun dels jugadors de cada equip de l'NBA de la conferència 'EAST' i 'WEST' (respectivament) 
+on en les diverses columnes mostren dades biogràfiques com altura, pes, data de naixement, entre d'altres.
 
 ### 4. Representació gràfica.
 
-- Exemple gràfic dels datasets **players_list_eastern_conference** i **players_list_western_conference** on es mostra informació visual sobre dades biogràfiques dels jugadors.
-![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/nba_dades_biogràfiques_jugadors.PNG)
+#### 4.1. teams_standing_eastern_conference i teams_standing_western_conference
+Exemple visual dels datasets **teams_standing_eastern_conference.csv** i **teams_standing_eastern_conference.csv** on mostra el mapa dels EEUU dividit entre les dues conferències de la lliga NBA amb la ubicació de cada equip
+![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/visual_map_conference.jpg)
 
+#### 4.2. players_stats_eastern_conference i players_stats_western_conference
 - Exemple gràfic dels datasets **players_stats_eastern_conference** i **players_stats_western_conference** que representa una comparativa sobre diverses variables estadístiques de diferents jugadors.
 ![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/Representació_Gràfica_Statics_Players.png)
 
-- Exemple visual dels datasets **teams_standing_eastern_conference.csv** i **teams_standing_eastern_conference.csv** on mostra el mapa dels EEUU dividit entre les dues conferències de la lliga NBA amb la ubicació de cada equip
-![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/visual_map_conference.jpg)
+#### 4.3. players_list_eastern_conference i players_list_western_conference
+- Exemple gràfic dels datasets **players_list_eastern_conference** i **players_list_western_conference** on es mostra informació visual sobre dades biogràfiques dels jugadors.
+![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/nba_dades_biogràfiques_jugadors.PNG)
 
 
 ### 5. Contingut.
 
-**teams_standing_eastern_conference i teams_standing_western_conference**
+#### 5.1. teams_standing_eastern_conference i teams_standing_western_conference
 
 Camps i descripció:
 
@@ -145,7 +140,7 @@ Camps i descripció:
   - DIF.2 - diferència entre FP i PA
   - Conference - a quina conferència pertany l'equip
 
-**players_stats_eastern_conference i players_stats_western_conference**
+#### 5.2. players_stats_eastern_conference i players_stats_western_conference
 
 Camps i descripció:
   
@@ -168,7 +163,7 @@ Camps i descripció:
   - Team - Equip al qual juga 
   - Conference - Conferència que juga
 
-**players_list_eastern_conference i players_list_western_conference**
+#### 5.3. players_list_eastern_conference i players_list_western_conference
 
 Camps i descripció:
 
