@@ -83,30 +83,29 @@ llistat i informació biogràfica dels jugadors de cada equip de la conferència
 l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.py'.
 
 
-- **
 ### 3. Descripció del dataset. 
 
-- ####teams_standing_eastern_conference
+- #### teams_standing_eastern_conference
 
     El dataset mostra les dades de la classificació dels 15 equips de la Conferència Est de la primera lliga americana de bàsquet de l'NBA. La taula està ordenada des de l'equip que té la màxima puntuació fins al que té menys punts. Altres dades que mostra la taula són per exemple els partits guanyats a casa o a fora, entre d'altres.
 
-- ####teams_standing_western_conference
+- #### teams_standing_western_conference
     
     El dataset mostra les dades de la classificació dels 15 equips de la Conferència Oest de la primera lliga americana de bàsquet de l'NBA. La taula està ordenada des de l'equip que té la màxima puntuació fins al que té menys punts. Altres dades que mostra la taula són per exemple els partits guanyats a casa o a fora, entre d'altres.
 
-  - ####players_list_eastern_conference
+- #### players_list_eastern_conference
 
-    El conjunt de dades llista cadascun dels jugadors de cada equip de l'NBA de la conferència Est on en les diverses columnes mostren dades biogràfiques com altura, pes, data de naixement, entre d'altres.
+  El conjunt de dades llista cadascun dels jugadors de cada equip de l'NBA de la conferència Est on en les diverses columnes mostren dades biogràfiques com altura, pes, data de naixement, entre d'altres.
   
-- ####players_list_western_conference
+- #### players_list_western_conference
 
     El conjunt de dades llista cadascun dels jugadors de cada equip de l'NBA de la conferència Oest on en les diverses columnes mostren dades biogràfiques com altura, pes, data de naixement, entre d'altres.
 
-- ####players_stats_eastern_conference
+- #### players_stats_eastern_conference
 
     El conjunt de dades llista cadascun dels jugadors de cada equip de la conferència 'EAST' de l'NBA on en les diverses columnes s'observen estadístiques tècniques de la temporada actual.
 
-- ####players_stats_western_conference
+- #### players_stats_western_conference
 
     El conjunt de dades llista cadascun dels jugadors de cada equip de la conferència 'WEST' de l'NBA on en les diverses columnes s'observen estadístiques tècniques de la temporada actual.
 
