@@ -115,7 +115,7 @@ l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.p
 - Exemple gràfic dels datasets **players_list_eastern_conference** i **players_list_western_conference** on es mostra informació visual sobre dades biogràfiques dels jugadors.
 
 
-![Representació gràfica sobre diverses dades biogràfiques dels jugador](C:\Users\alexv\PycharmProjects\web-scraping-nba\images\nba_dades_biogràfiques_jugadors.PNG "Dades biogràfiques jugadors")
+![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/Representaci%C3%B3_Gr%C3%A0fica_Statics_Players.png)
 
 *Ubicació de l'imatge: web-scraping-nba/images/nba_dades_biogràfiques_jugadors.PNG
 
