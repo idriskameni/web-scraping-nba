@@ -140,6 +140,12 @@ Camps i descripció:
   - DIF.2 - diferència entre FP i PA
   - Conference - a quina conferència pertany l'equip
 
+Període de temps de les dades:
+  
+  - Les dades són extretes de la temporada actual de la lliga de l'NBA 2021-2022. En concret des de l'inici de la temporada,
+    l'octubre de 2021, fins a l'actualitat, abril de 2022.
+  
+
 #### 5.2. players_stats_eastern_conference i players_stats_western_conference
 
 Camps i descripció:
@@ -163,6 +169,11 @@ Camps i descripció:
   - Team - Equip al qual juga 
   - Conference - Conferència que juga
 
+Període de temps de les dades:
+  
+  - Les dades són extretes de la temporada actual de la lliga de l'NBA 2021-2022. En concret des de l'inici de la temporada,
+    l'octubre de 2021, fins a l'actualitat, abril de 2022.
+
 #### 5.3. players_list_eastern_conference i players_list_western_conference
 
 Camps i descripció:
@@ -172,15 +183,55 @@ Camps i descripció:
   - Altura - Alçada del jugador
   - Peso - Pes del jugador
   - Numero - número de camiseta
-  - Fecha de nacimiento - Data de naixament
+  - Fecha de nacimiento - Data de naixement
   - Exp - Anys a l'NBA
   - Antes de la NBA - Equip al qual jugava anterior a l'NBA
   - País - Nacionalitat del jugador
   - Team - Equip actual del jugador
   - Conference - Conferència a la qual juga
 
+Període de temps de les dades:
+  
+  - Les dades són extretes de la temporada actual de la lliga de l'NBA 2021-2022. En concret des de l'inici de la temporada,
+    l'octubre de 2021, fins a l'actualitat, abril de 2022.
+
+**Procés d'extracció de les dades**
+
+Per la gestió del procés en web scraping s'ha utilitzat la llibreria Selenium per automatitzar el navegador web, en concret** 
+Chrome, utilitzant com a enllaç de referència "https://es.global.nba.com/statistics" o també a la pestanya de "classificació" de 
+la web principal "https://www.sportingnews.com/es/nba?gr=www". Tanmateix, amb la llibreria "BeautifulSoup"
+s'ha extret la informació del contingut en format HTML. Durant el procés d'extracció de les dades s'ha utilitzat la funció find_all 
+basicament per buscar l'atribut (en aquest cas la taula específica) de tipus tag. 
+
+Un cop aconseguida els datasets de la classificació de les dues conferències hem repetit el procés per l'obtenció dels quatre datasets restants.
 
 ### 6. Agraïments.
+
+El propietari del lloc web i del conjunt de dades de les quals s'ha dut a terme el projecte és l'empresa The Sporting News Holdings, 
+que ha facilitat l'anàlisi i les estadístiques per al procés de web scraping i seguidament a l'obtenció dels datasets.
+El propietari dóna com a contacte el seu mail **info@sportingnewsholdings.com**, juntament amb altres enllaços a través de 
+les xarxes socials els quals són: 
+
+    - www.linkedin.com/company/thesportingnews 
+    - https://www.instagram.com/sportingnews
+    - https://www.facebook.com/thesportingnews
+    - https://www.youtube.com/sportingnews
+
+Per altra banda, abans de fer web scraping a la web oficial de l'NBA, ens hem assegurat que totes les dades de
+stats.nba.com estan totalment disponibles per a ús públic. Tanmateix, volem comunicar que l'objectiu del projecte es basa
+en finalitats ètiques i educatives per a un ús totalment educatiu.
+
+**Anàlisis similars**
+
+Existeixen diversos anàlisis semblants que es poden trobar per internet els quals han utilitzat tècniques similars. La majoria
+d'aquests anàlisis són basicament educatius per a l'ús d'eines en web scraping. Alguns 
+d'aquests projectes són: 
+
+  - https://towardsdatascience.com/web-scraping-nba-2k-data-d7fdd4c8898c
+  - https://www.parsehub.com/blog/nba-stats-espn/
+  - https://blog.geetest.com/en/article/web-scraping-NBA-salary
+  - https://medium.com/@osanchez2323/web-scraping-nba-stats-4b4f8c525994
+
 
 ### 7. Inspiració. 
 
@@ -190,10 +241,12 @@ rebot… per citar-ne alguns) segueixen tenint significat, és clar, però ja es
 Cal anar més enllà.
 
 Als Estats Units, són els amants més grans de les estadístiques en l'esport i això es reflecteix en tots els seus grans esports. 
-El bàsquet no és una excepció, ia l'NBA, les estadístiques es tracten a tots els nivells. I és que analitzant les estadístiques, pots arribar a treure'n moltes conclusions sobre com s'ha desenvolupat un 
-determinat partit, i quins jugadors han estat més encertats i en quins aspectes del joc.
+El bàsquet no és una excepció, ia l'NBA, les estadístiques es tracten a tots els nivells. I és que analitzant les estadístiques, 
+pots arribar a treure'n moltes conclusions sobre com s'ha desenvolupat un determinat partit, i quins jugadors han estat 
+més encertats i en quins aspectes del joc.
 Tanmateix, els cossos tècnics dels equips de l'NBA i de la Lliga Endesa tenen especialistes en estadístiques i en obtenir 
 informació valuosa dels números.
+
 Un altre punt molt rellevant és respecte el negoci de les apostes, les quals també tenen en l'estadística la millor font 
 d'informació per realitzar els seus pronòstics a la lliga nord-americana de bàsquet NBA i poder aspirar a anticipar algun resultat llegint de manera adequada dades numèriques.
 
@@ -201,9 +254,11 @@ d'informació per realitzar els seus pronòstics a la lliga nord-americana de b�
 
 La llicència escollida per aquest repositori ha sigut la llicència Creative Commons Zero v1.0 Universal.
 
+Hem escollit la llicència CC0 perquè permet als científics, educadors, artistes i altres creadors i propietaris de continguts amb drets d'autor
+a renunciar-hi perquè altres puguin utilitzar lliurement per a qualsevol propòsit sense restricció.
 ### 9. Codi. 
 
-Els datasets s'han generat executant la comanda "python web_scraping_nba.py" un cop la nostre terminal es troba en la carpeta "/src/web-scraping-nba/".
+Els datasets s'han generat executant la comanda "python web_scraping_nba.py" un cop la nostra terminal es troba en la carpeta "/src/web-scraping-nba/".
 
 ### 10. Dataset (Zenodo). 
 
