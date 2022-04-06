@@ -199,8 +199,17 @@ d'informació per realitzar els seus pronòstics a la lliga nord-americana de b�
 
 ### 8. Llicència. 
 
+La llicència escollida per aquest repositori ha sigut la llicència Creative Commons Zero v1.0 Universal.
+
 ### 9. Codi. 
+
+Els datasets s'han generat executant la comanda "python web_scraping_nba.py" un cop la nostre terminal es troba en la carpeta "/src/web-scraping-nba/".
 
 ### 10. Dataset (Zenodo). 
 
-### 11. Vídeo.
+#### 10.1. teams_standing_eastern_conference i teams_standing_western_conference
+- https://zenodo.org/record/6419210
+#### 10.2. players_stats_eastern_conference i players_stats_western_conference
+- https://zenodo.org/record/6419205
+#### 10.3. players_list_eastern_conference i players_list_western_conference
+- https://zenodo.org/record/6419199
