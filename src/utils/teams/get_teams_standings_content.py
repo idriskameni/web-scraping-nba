@@ -19,6 +19,9 @@ def get_teams_standings_content(base_url):
     # Get the content from the indicated URL
     driver.get(base_url + 'standings/')
 
+    # Wait 3 seconds to make sure that all content is properly loaded
+    driver.implicitly_wait(3)
+
     # Transform 'page_source' to BeautifulSoup object
     soup = BeautifulSoup(driver.page_source, 'html.parser')
 
