@@ -113,27 +113,13 @@ l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.p
 ### 4. Representació gràfica.
 
 - Exemple gràfic dels datasets **players_list_eastern_conference** i **players_list_western_conference** on es mostra informació visual sobre dades biogràfiques dels jugadors.
-
-
-![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/Representaci%C3%B3_Gr%C3%A0fica_Statics_Players.png)
-
-*Ubicació de l'imatge: web-scraping-nba/images/nba_dades_biogràfiques_jugadors.PNG
-
-
+![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/nba_dades_biogràfiques_jugadors.PNG)
 
 - Exemple gràfic dels datasets **players_stats_eastern_conference** i **players_stats_western_conference** que representa una comparativa sobre diverses variables estadístiques de diferents jugadors.
-
-
-<img alt="Representació gràfica estadístiques jugadors" height="480" src="C:\Users\alexv\PycharmProjects\web-scraping-nba\images\Representació_Gràfica_Statics_Players.png" title="Estadístiques Jugadors" width="700"/>
-
-*Ubicació de l'imatge: web-scraping-nba/images/Representació_Gràfica_Statics_Players.png
-
+![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/Representació_Gràfica_Statics_Players.png)
 
 - Exemple visual dels datasets **teams_standing_eastern_conference.csv** i **teams_standing_eastern_conference.csv** on mostra el mapa dels EEUU dividit entre les dues conferències de la lliga NBA amb la ubicació de cada equip
-
-<img alt="Mapa conferència est i oest de l&#39;NBA amb la ubicació dels diferents equips" height="450" src="C:\Users\alexv\PycharmProjects\web-scraping-nba\images\visual_map_conference.jpg" title="Mapa conferències" width="700"/>
-
-*Ubicació de l'imatge: web-scraping-nba/images/visual_map_conference.jpg
+![Representació gràfica sobre diverses dades biogràfiques dels jugador](https://github.com/idriskameni/web-scraping-nba/blob/main/images/visual_map_conference.jpg)
 
 
 ### 5. Contingut.
