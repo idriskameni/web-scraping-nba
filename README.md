@@ -88,18 +88,18 @@ l'execució del fitxer 'web-scraping-nba/src/web-scraping-nba/web_scraping_nba.p
 ### 3. Descripció del dataset. 
 
 #### 3.1. teams_standing_eastern_conference i teams_standing_western_conference
-- El dataset mostra les dades de la classificació dels 15 equips de la conferència 'EAST' i 'WEST' (respectivament) de la
-primera lliga americana de bàsquet de l'NBA. La taula està ordenada des de l'equip que té la màxima puntuació fins al
-que té menys punts. Altres dades que mostra la taula són per exemple els partits guanyats a casa o a fora, entre
+- Els datasets mostren les dades de la classificació dels 15 equips de la conferència 'EAST' i 'WEST' (respectivament) de la
+primera lliga americana de bàsquet de l'NBA. Les taules estan ordenades des de l'equip que té la màxima puntuació fins al
+que té menys punts. Altres dades que mostren les taules són per exemple els partits guanyats a casa o a fora, entre
 d'altres.
     
 #### 3.2. players_stats_eastern_conference i players_stats_western_conference
-- El conjunt de dades llista cadascun dels jugadors de cada equip de la conferència 'EAST' i 'WEST' (respectivament) de
+- Els conjunts de dades llisten cadascun dels jugadors de cada equip de la conferència 'EAST' i 'WEST' (respectivament) de
 l'NBA on en les diverses columnes s'observen estadístiques tècniques de la temporada actual.
 
 #### 3.3. players_list_eastern_conference i players_list_western_conference
-- El conjunt de dades llista cadascun dels jugadors de cada equip de l'NBA de la conferència 'EAST' i 'WEST' (respectivament) 
-on en les diverses columnes mostren dades biogràfiques com altura, pes, data de naixement, entre d'altres.
+- Els conjunts de dades llisten cadascun dels jugadors de cada equip de la conferència 'EAST' i 'WEST' (respectivament) de
+l'NBA on en les diverses columnes mostren dades biogràfiques com altura, pes, data de naixement, entre d'altres.
 
 ### 4. Representació gràfica.
 
