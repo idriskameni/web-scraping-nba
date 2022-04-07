@@ -197,11 +197,12 @@ Període de temps de les dades:
 
 **Procés d'extracció de les dades**
 
-Per la gestió del procés en web scraping s'ha utilitzat la llibreria Selenium per automatitzar el navegador web, en concret** 
+Per la gestió del procés en web scraping s'ha utilitzat la llibreria Selenium per automatitzar el navegador web, en concret
 Chrome, utilitzant com a enllaç de referència "https://es.global.nba.com/statistics" o també a la pestanya de "classificació" de 
 la web principal "https://www.sportingnews.com/es/nba?gr=www". Tanmateix, amb la llibreria "BeautifulSoup"
 s'ha extret la informació del contingut en format HTML. Durant el procés d'extracció de les dades s'ha utilitzat la funció find_all 
-basicament per buscar l'atribut (en aquest cas la taula específica) de tipus tag. 
+basicament per buscar l'atribut (nba-stat-table) de tipus tag. 
+Un cop identificada la taula hem fet un bucle per identificar les taules i seguidament transformar-les en un dataframe.
 
 Un cop aconseguida els datasets de la classificació de les dues conferències hem repetit el procés per l'obtenció dels quatre datasets restants.
 
@@ -228,7 +229,6 @@ d'aquests anàlisis són basicament educatius per a l'ús d'eines en web scrapin
 d'aquests projectes són: 
 
   - https://towardsdatascience.com/web-scraping-nba-2k-data-d7fdd4c8898c
-  - https://www.parsehub.com/blog/nba-stats-espn/
   - https://blog.geetest.com/en/article/web-scraping-NBA-salary
   - https://medium.com/@osanchez2323/web-scraping-nba-stats-4b4f8c525994
 
@@ -250,6 +250,9 @@ informació valuosa dels números.
 Un altre punt molt rellevant és respecte el negoci de les apostes, les quals també tenen en l'estadística la millor font 
 d'informació per realitzar els seus pronòstics a la lliga nord-americana de bàsquet NBA i poder aspirar a anticipar algun resultat llegint de manera adequada dades numèriques.
 
+Comparant amb analsis anteriors mencionats al punt 6 podem observar l'ús habitual i la importància de llibreries com Selenium i BeautifulSoup
+que ajuden en el procés de localització d'enllaços i en l'extracció de contingut de les pròpies webs. 
+Són mètodes fàcils d'aplicar que formen part del procés de web scraping
 ### 8. Llicència. 
 
 La llicència escollida per aquest repositori ha sigut la llicència Creative Commons Zero v1.0 Universal.
