@@ -12,7 +12,7 @@ def create_teams_standings_datasets(standings_content):
     2) standings of the 'western' conference;
     """
 
-    # Create an empty list called tables
+    # Create an empty list called tables to append the standings datasets
     tables = []
 
     # Find all elements in HTML object that are of type <nba-stat-table ...>
@@ -20,10 +20,18 @@ def create_teams_standings_datasets(standings_content):
 
     # Loop through each 'nba-stat-table' to identify the tables and append them to 'tables'
     for html_object in html_objects:
+
+        # Identify the conference
         conference = html_object.get('data-title')
+
+        # Identify the table
         table = html_object.find('table')
+
+        # Transform the table to a dataframe and add 'Conference'
         df_table = pd.read_html(str(table))[0]
         df_table['Conference'] = conference
+
+        # Append the dataframe to the 'tables' list
         tables.append(df_table)
 
     # Remove duplicates from the list of tables

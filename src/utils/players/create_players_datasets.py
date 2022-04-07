@@ -13,7 +13,7 @@ def create_players_datasets(list_of_players_content):
     2) list of players for that specific team.
     """
 
-    # Create an empty list called tables
+    # Create an empty list called tables to append the players datasets (list and stats)
     tables = []
 
     # Find all elements in HTML object that are of type <div> with class 'nba-stat-table__overflow'
@@ -21,7 +21,11 @@ def create_players_datasets(list_of_players_content):
 
     # Loop through each 'div' to identify the tables and append them to 'tables'
     for html_table in html_tables:
+
+        # Identify the table
         table = html_table.find('table')
+
+        # Transform the table to a dataframe and append it to 'tables' list
         tables.append(pd.read_html(str(table))[0])
 
     # Remove duplicates from the list of tables
