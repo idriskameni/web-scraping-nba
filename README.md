@@ -1,6 +1,6 @@
 # M2.951 - Pràctica 1: Web scraping
 
-### 0. Introducció.
+### 0. Autors.
 El codi que conté aquest repositori ha estat desenvolupat
 pels alumnes **Alexandre Vidal de Palol** i **Adrián Alonso Gonzalo**
 (alexvidi i idriskameni en GitHub respectivament).
