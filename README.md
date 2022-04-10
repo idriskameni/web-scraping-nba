@@ -21,7 +21,7 @@ l'NBA on en les diverses columnes s'observen estadístiques tècniques de la tem
 - Els conjunts de dades llisten cadascun dels jugadors de cada equip de la conferència 'EAST' i 'WEST' (respectivament) de
 l'NBA on en les diverses columnes mostren dades biogràfiques com altura, pes, data de naixement, entre d'altres.
 
-### 2. Datasets (Zenodo - DOI). 
+### 2. Datasets a Zenodo - DOI. 
 
 #### 2.1. teams_standing_eastern_conference i teams_standing_western_conference
 - https://zenodo.org/record/6419210
